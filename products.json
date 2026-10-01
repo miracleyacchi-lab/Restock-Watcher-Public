@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-10-01T00:54:58+00:00",
+  "schema_version": 2,
+  "generated_at": "2026-10-01T01:17:19+00:00",
   "product_count": 37,
   "category_counts": {
     "fishing": 23,
@@ -8,527 +8,656 @@
   },
   "status_counts": {
     "OUT_OF_STOCK": 15,
-    "IN_STOCK": 21,
-    "PREORDER": 1
+    "IN_STOCK": 22
   },
   "products": [
     {
       "product_id": "F01",
       "category": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "store": "Megabass公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f"
+      "offers": [
+        {
+          "offer_id": "F01-official",
+          "store": "Megabass公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F02",
       "category": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "store": "Megabass公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f"
+      "offers": [
+        {
+          "offer_id": "F02-official",
+          "store": "Megabass公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F03",
       "category": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "store": "Megabass公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-09-30T15:50:45+00:00",
-      "observations": 69,
-      "reliable_observations": 51,
-      "unreliable_observations": 18,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://jp.megabassstore.jp/c/2026-newcolors/2026-newcolors-kagelou-100f"
+      "offers": [
+        {
+          "offer_id": "F03-official",
+          "store": "Megabass公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://jp.megabassstore.jp/c/2026-newcolors/2026-newcolors-kagelou-100f",
+          "last_reliable_checked_at": "2026-09-30T15:50:45+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F04",
       "category": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "store": "Megabass公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://jp.megabassstore.jp/c/new2026/detail-58312"
+      "offers": [
+        {
+          "offer_id": "F04-official",
+          "store": "Megabass公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://jp.megabassstore.jp/c/new2026/detail-58312",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F05",
       "category": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim #01 ブルーブルー",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/002089/"
+      "offers": [
+        {
+          "offer_id": "F05-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/002089/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "barcode": "4589945518208"
     },
     {
       "product_id": "F06",
       "category": "fishing",
       "product": "BlueBlue ブローウィン60S #01 ブルーブルー",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005570/"
+      "offers": [
+        {
+          "offer_id": "F06-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005570/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F07",
       "category": "fishing",
       "product": "BlueBlue ブローウィン50S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/006297/"
+      "offers": [
+        {
+          "offer_id": "F07-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/006297/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F08",
       "category": "fishing",
       "product": "BlueBlue スネコン60S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/006424/"
+      "offers": [
+        {
+          "offer_id": "F08-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/006424/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F09",
       "category": "fishing",
       "product": "BlueBlue エグイド90F",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005147/"
+      "offers": [
+        {
+          "offer_id": "F09-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005147/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F10",
       "category": "fishing",
       "product": "BlueBlue ガチペンライオット155",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/006454/"
+      "offers": [
+        {
+          "offer_id": "F10-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/006454/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C01",
       "category": "camping",
       "product": "TOKYO CRAFTS コードユニット ブラック",
-      "store": "TOKYO CRAFTS公式",
-      "status": "PREORDER",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 68,
-      "unreliable_observations": 1,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://tokyocrafts.jp/products/tc-283-coordunit-black"
+      "offers": [
+        {
+          "offer_id": "C01-official",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc-283-coordunit-black",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        },
+        {
+          "offer_id": "C01-yahoo-west",
+          "store": "WEST WEB STORE",
+          "status": "IN_STOCK",
+          "url": "https://store.shopping.yahoo.co.jp/west-shop/831976-831977.html",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "Yahoo!ショッピング"
+        }
+      ],
+      "barcode": "4580702321819",
+      "sku": "TC-07040200000"
     },
     {
       "product_id": "C02",
       "category": "camping",
       "product": "TOKYO CRAFTS テンビ シェルター ブラック",
-      "store": "TOKYO CRAFTS公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://tokyocrafts.jp/products/products-188-tenbi_black"
+      "offers": [
+        {
+          "offer_id": "C02-official",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/products-188-tenbi_black",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "barcode": "4580702321352",
+      "sku": "TC-01190200000"
     },
     {
       "product_id": "C03",
       "category": "camping",
       "product": "38explore 38灯 MIYABI OD",
-      "store": "38explore公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.38explore.com/items/74563512"
+      "offers": [
+        {
+          "offer_id": "C03-official",
+          "store": "38explore公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://www.38explore.com/items/74563512",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C04",
       "category": "camping",
       "product": "38explore 38灯 MIYABI GR",
-      "store": "38explore公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.38explore.com/items/74563544"
+      "offers": [
+        {
+          "offer_id": "C04-official",
+          "store": "38explore公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://www.38explore.com/items/74563544",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C05",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE",
-      "store": "サンゾー工務店公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 68,
-      "unreliable_observations": 1,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.3zo.online/products/iron-table"
+      "offers": [
+        {
+          "offer_id": "C05-official",
+          "store": "サンゾー工務店公式",
+          "status": "IN_STOCK",
+          "url": "https://www.3zo.online/products/iron-table",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C06",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE mini",
-      "store": "サンゾー工務店公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 68,
-      "unreliable_observations": 1,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.3zo.online/products/iron-table-mini"
+      "offers": [
+        {
+          "offer_id": "C06-official",
+          "store": "サンゾー工務店公式",
+          "status": "IN_STOCK",
+          "url": "https://www.3zo.online/products/iron-table-mini",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C10",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE mini CHIKKA FINISH",
-      "store": "サンゾー工務店公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.3zo.online/products/iron-table-mini-chikkafinish"
+      "offers": [
+        {
+          "offer_id": "C10-official",
+          "store": "サンゾー工務店公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://www.3zo.online/products/iron-table-mini-chikkafinish",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F11",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！140S",
-      "store": "BlueBlue公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/000713/"
+      "offers": [
+        {
+          "offer_id": "F11-official",
+          "store": "BlueBlue公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/000713/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F12",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！140J",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/003516/"
+      "offers": [
+        {
+          "offer_id": "F12-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/003516/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F13",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！167F-Shallow",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/006196/"
+      "offers": [
+        {
+          "offer_id": "F13-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/006196/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F14",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！110S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/004852/"
+      "offers": [
+        {
+          "offer_id": "F14-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/004852/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F15",
       "category": "fishing",
       "product": "BlueBlue スネコン90S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/000554/"
+      "offers": [
+        {
+          "offer_id": "F15-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/000554/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F16",
       "category": "fishing",
       "product": "BlueBlue スネコン130S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/000567/"
+      "offers": [
+        {
+          "offer_id": "F16-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/000567/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F17",
       "category": "fishing",
       "product": "BlueBlue スネコン150S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005215/"
+      "offers": [
+        {
+          "offer_id": "F17-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005215/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F18",
       "category": "fishing",
       "product": "BlueBlue スネコン180S",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/002389/"
+      "offers": [
+        {
+          "offer_id": "F18-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/002389/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C11",
       "category": "camping",
       "product": "AS2OV HIGH BACK RECLINING LOW ROVER CHAIR BLACK",
-      "store": "AS2OV公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://as2ov.jp/products/reclining-low-rover-chair-black-1"
+      "offers": [
+        {
+          "offer_id": "C11-official",
+          "store": "AS2OV公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://as2ov.jp/products/reclining-low-rover-chair-black-1",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "barcode": "4570090248973"
     },
     {
       "product_id": "C12",
       "category": "camping",
       "product": "Snow Peak シェルフコンテナ 25",
-      "store": "Snow Peak公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://ec.snowpeak.co.jp/item/SNP0112A0338"
+      "offers": [
+        {
+          "offer_id": "C12-official",
+          "store": "Snow Peak公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://ec.snowpeak.co.jp/item/SNP0112A0338",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "sku": "UG-025G"
     },
     {
       "product_id": "C13",
       "category": "camping",
       "product": "Snow Peak コンテナ2個セット",
-      "store": "Snow Peak公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://ec.snowpeak.co.jp/item/SNP0125A0383"
+      "offers": [
+        {
+          "offer_id": "C13-official",
+          "store": "Snow Peak公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://ec.snowpeak.co.jp/item/SNP0125A0383",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "sku": "FK-396"
     },
     {
       "product_id": "C14",
       "category": "camping",
       "product": "NANGA×STANLEY スタッキング真空パイント",
-      "store": "NANGA公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 67,
-      "unreliable_observations": 2,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://store.nanga.jp/products/nanga-stanley-stacking-vacuum-pint"
+      "offers": [
+        {
+          "offer_id": "C14-official",
+          "store": "NANGA公式",
+          "status": "IN_STOCK",
+          "url": "https://store.nanga.jp/products/nanga-stanley-stacking-vacuum-pint",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F19",
       "category": "fishing",
       "product": "BlueBlue ガボッツ150",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/003268/"
+      "offers": [
+        {
+          "offer_id": "F19-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/003268/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F20",
       "category": "fishing",
       "product": "BlueBlue ガボッツ120",
-      "store": "BlueBlue公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005516/"
+      "offers": [
+        {
+          "offer_id": "F20-official",
+          "store": "BlueBlue公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005516/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F21",
       "category": "fishing",
       "product": "BlueBlue アイザー160F",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005546/"
+      "offers": [
+        {
+          "offer_id": "F21-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005546/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F22",
       "category": "fishing",
       "product": "BlueBlue ガチペン130",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/004448/"
+      "offers": [
+        {
+          "offer_id": "F22-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/004448/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "F23",
       "category": "fishing",
       "product": "BlueBlue ガチポップ100",
-      "store": "BlueBlue公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://www.bluebluefishing.com/item/detail/005188/"
+      "offers": [
+        {
+          "offer_id": "F23-official",
+          "store": "BlueBlue公式",
+          "status": "IN_STOCK",
+          "url": "https://www.bluebluefishing.com/item/detail/005188/",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ]
     },
     {
       "product_id": "C15",
       "category": "camping",
       "product": "AS2OV SIDE TABLE for AS2OV ROVER CHAIR",
-      "store": "AS2OV公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://as2ov.jp/products/side-table-for-as2ov-rover-chair"
+      "offers": [
+        {
+          "offer_id": "C15-official",
+          "store": "AS2OV公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://as2ov.jp/products/side-table-for-as2ov-rover-chair",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "sku": "392301-23"
     },
     {
       "product_id": "C16",
       "category": "camping",
       "product": "Snow Peak Take!チェア ロング",
-      "store": "Snow Peak公式",
-      "status": "OUT_OF_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 0,
-      "stockout_events": 0,
-      "official_url": "https://ec.snowpeak.co.jp/item/SNP0119A0265"
+      "offers": [
+        {
+          "offer_id": "C16-official",
+          "store": "Snow Peak公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://ec.snowpeak.co.jp/item/SNP0119A0265",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "sku": "LV-086"
     },
     {
       "product_id": "C17",
       "category": "camping",
       "product": "Snow Peak ローチェア30 ブラック",
-      "store": "Snow Peak公式",
-      "status": "IN_STOCK",
-      "last_reliable_checked_at": "2026-10-01T00:53:54+00:00",
-      "observations": 69,
-      "reliable_observations": 69,
-      "unreliable_observations": 0,
+      "observations": 70,
       "restock_events": 3,
-      "stockout_events": 3,
-      "official_url": "https://ec.snowpeak.co.jp/item/SNP0124A0647"
+      "offers": [
+        {
+          "offer_id": "C17-official",
+          "store": "Snow Peak公式",
+          "status": "IN_STOCK",
+          "url": "https://ec.snowpeak.co.jp/item/SNP0124A0647",
+          "last_reliable_checked_at": "2026-10-01T01:16:11+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "sku": "LV-091-AZ"
     }
   ]
 }
