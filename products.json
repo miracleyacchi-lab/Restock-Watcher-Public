@@ -1,22 +1,23 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T10:39:25+00:00",
-  "product_count": 37,
+  "generated_at": "2026-10-04T11:21:46+00:00",
+  "product_count": 69,
   "category_counts": {
     "fishing": 23,
-    "camping": 14
+    "camping": 46
   },
   "status_counts": {
-    "OUT_OF_STOCK": 12,
-    "IN_STOCK": 23,
-    "UNKNOWN": 2
+    "OUT_OF_STOCK": 24,
+    "IN_STOCK": 34,
+    "UNKNOWN": 2,
+    "PREORDER": 9
   },
   "products": [
     {
       "product_id": "F01",
       "category": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -24,7 +25,7 @@
           "store": "Megabass公式",
           "status": "OUT_OF_STOCK",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ]
@@ -33,7 +34,7 @@
       "product_id": "F02",
       "category": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -41,7 +42,7 @@
           "store": "Megabass公式",
           "status": "OUT_OF_STOCK",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ]
@@ -50,7 +51,7 @@
       "product_id": "F03",
       "category": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -67,7 +68,7 @@
       "product_id": "F04",
       "category": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -84,7 +85,7 @@
       "product_id": "F05",
       "category": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim #01 ブルーブルー",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -92,7 +93,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/002089/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -103,7 +104,7 @@
       "product_id": "F06",
       "category": "fishing",
       "product": "BlueBlue ブローウィン60S #01 ブルーブルー",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -111,7 +112,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005570/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -121,7 +122,7 @@
       "product_id": "F07",
       "category": "fishing",
       "product": "BlueBlue ブローウィン50S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -129,7 +130,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006297/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -139,7 +140,7 @@
       "product_id": "F08",
       "category": "fishing",
       "product": "BlueBlue スネコン60S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -147,7 +148,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006424/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -157,7 +158,7 @@
       "product_id": "F09",
       "category": "fishing",
       "product": "BlueBlue エグイド90F",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -165,7 +166,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005147/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -175,7 +176,7 @@
       "product_id": "F10",
       "category": "fishing",
       "product": "BlueBlue ガチペンライオット155",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -183,7 +184,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006454/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -193,7 +194,7 @@
       "product_id": "C01",
       "category": "camping",
       "product": "TOKYO CRAFTS コードユニット ブラック",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -201,11 +202,11 @@
           "store": "TOKYO CRAFTS公式",
           "status": "PREORDER",
           "url": "https://tokyocrafts.jp/products/tc-283-coordunit-black",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "price": {
             "amount": 9900,
             "currency": "JPY",
-            "checked_at": "2026-10-04T10:37:42+00:00",
+            "checked_at": "2026-10-04T11:19:32+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -227,7 +228,7 @@
       "product_id": "C02",
       "category": "camping",
       "product": "TOKYO CRAFTS テンビ シェルター ブラック",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -235,11 +236,11 @@
           "store": "TOKYO CRAFTS公式",
           "status": "OUT_OF_STOCK",
           "url": "https://tokyocrafts.jp/products/products-188-tenbi_black",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "price": {
             "amount": 56980,
             "currency": "JPY",
-            "checked_at": "2026-10-04T10:37:42+00:00",
+            "checked_at": "2026-10-04T11:19:32+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -261,7 +262,7 @@
       "product_id": "C03",
       "category": "camping",
       "product": "38explore 38灯 MIYABI OD",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -269,7 +270,7 @@
           "store": "38explore公式",
           "status": "OUT_OF_STOCK",
           "url": "https://www.38explore.com/items/74563512",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -279,7 +280,7 @@
       "product_id": "C04",
       "category": "camping",
       "product": "38explore 38灯 MIYABI GR",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -287,7 +288,7 @@
           "store": "38explore公式",
           "status": "OUT_OF_STOCK",
           "url": "https://www.38explore.com/items/74563544",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -297,7 +298,7 @@
       "product_id": "C05",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -305,7 +306,7 @@
           "store": "サンゾー工務店公式",
           "status": "IN_STOCK",
           "url": "https://www.3zo.online/products/iron-table",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -315,7 +316,7 @@
       "product_id": "C06",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE mini",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -323,7 +324,7 @@
           "store": "サンゾー工務店公式",
           "status": "IN_STOCK",
           "url": "https://www.3zo.online/products/iron-table-mini",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -333,7 +334,7 @@
       "product_id": "C10",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE mini CHIKKA FINISH",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -341,7 +342,7 @@
           "store": "サンゾー工務店公式",
           "status": "OUT_OF_STOCK",
           "url": "https://www.3zo.online/products/iron-table-mini-chikkafinish",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -351,7 +352,7 @@
       "product_id": "F11",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！140S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -359,7 +360,7 @@
           "store": "BlueBlue公式",
           "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -369,7 +370,7 @@
       "product_id": "F12",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！140J",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -377,7 +378,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/003516/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -387,7 +388,7 @@
       "product_id": "F13",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！167F-Shallow",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -395,7 +396,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006196/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -405,7 +406,7 @@
       "product_id": "F14",
       "category": "fishing",
       "product": "BlueBlue ブローウィン！110S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -413,7 +414,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/004852/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -423,7 +424,7 @@
       "product_id": "F15",
       "category": "fishing",
       "product": "BlueBlue スネコン90S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -431,7 +432,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000554/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -441,7 +442,7 @@
       "product_id": "F16",
       "category": "fishing",
       "product": "BlueBlue スネコン130S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -449,7 +450,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -459,7 +460,7 @@
       "product_id": "F17",
       "category": "fishing",
       "product": "BlueBlue スネコン150S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -467,7 +468,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005215/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -477,7 +478,7 @@
       "product_id": "F18",
       "category": "fishing",
       "product": "BlueBlue スネコン180S",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -485,7 +486,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/002389/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -495,7 +496,7 @@
       "product_id": "C11",
       "category": "camping",
       "product": "AS2OV HIGH BACK RECLINING LOW ROVER CHAIR BLACK",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -503,7 +504,7 @@
           "store": "AS2OV公式",
           "status": "OUT_OF_STOCK",
           "url": "https://as2ov.jp/products/reclining-low-rover-chair-black-1",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -514,7 +515,7 @@
       "product_id": "C12",
       "category": "camping",
       "product": "Snow Peak シェルフコンテナ 25",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 1,
       "offers": [
         {
@@ -522,7 +523,7 @@
           "store": "Snow Peak公式",
           "status": "IN_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0112A0338",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         },
         {
@@ -542,7 +543,7 @@
       "product_id": "C13",
       "category": "camping",
       "product": "Snow Peak コンテナ2個セット",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 6,
       "offers": [
         {
@@ -550,7 +551,7 @@
           "store": "Snow Peak公式",
           "status": "OUT_OF_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0125A0383",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -561,7 +562,7 @@
       "product_id": "C14",
       "category": "camping",
       "product": "NANGA×STANLEY スタッキング真空パイント",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -579,7 +580,7 @@
       "product_id": "F19",
       "category": "fishing",
       "product": "BlueBlue ガボッツ150",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -587,7 +588,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/003268/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -597,7 +598,7 @@
       "product_id": "F20",
       "category": "fishing",
       "product": "BlueBlue ガボッツ120",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -605,7 +606,7 @@
           "store": "BlueBlue公式",
           "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005516/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -615,7 +616,7 @@
       "product_id": "F21",
       "category": "fishing",
       "product": "BlueBlue アイザー160F",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -623,7 +624,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005546/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -633,7 +634,7 @@
       "product_id": "F22",
       "category": "fishing",
       "product": "BlueBlue ガチペン130",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -641,7 +642,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/004448/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -651,7 +652,7 @@
       "product_id": "F23",
       "category": "fishing",
       "product": "BlueBlue ガチポップ100",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -659,7 +660,7 @@
           "store": "BlueBlue公式",
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005188/",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -669,7 +670,7 @@
       "product_id": "C15",
       "category": "camping",
       "product": "AS2OV SIDE TABLE for AS2OV ROVER CHAIR",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -677,7 +678,7 @@
           "store": "AS2OV公式",
           "status": "OUT_OF_STOCK",
           "url": "https://as2ov.jp/products/side-table-for-as2ov-rover-chair",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
@@ -688,7 +689,7 @@
       "product_id": "C16",
       "category": "camping",
       "product": "Snow Peak Take!チェア ロング",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 0,
       "offers": [
         {
@@ -696,7 +697,7 @@
           "store": "Snow Peak公式",
           "status": "OUT_OF_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0119A0265",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         },
         {
@@ -716,7 +717,7 @@
       "product_id": "C17",
       "category": "camping",
       "product": "Snow Peak ローチェア30 ブラック",
-      "observations": 196,
+      "observations": 197,
       "restock_events": 3,
       "offers": [
         {
@@ -724,12 +725,620 @@
           "store": "Snow Peak公式",
           "status": "IN_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0124A0647",
-          "last_reliable_checked_at": "2026-10-04T10:37:42+00:00",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
           "marketplace": "official"
         }
       ],
       "brand": "Snow Peak",
       "sku": "LV-091-AZ"
+    },
+    {
+      "product_id": "P-JAN-4570090255339",
+      "category": "camping",
+      "product": "AS2OV NYLON POLYCARBONATECOT BLACK ナイロンポリカーボネートコット",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090255339-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/cot-black",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090255339"
+    },
+    {
+      "product_id": "P-JAN-4570090255124",
+      "category": "camping",
+      "product": "AS2OV COT TENT BLACK コットテント",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090255124-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/cot-tent-black",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090255124"
+    },
+    {
+      "product_id": "P-JAN-4570090255131",
+      "category": "camping",
+      "product": "AS2OV COT TENT KHAKI コットテント",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090255131-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/cot-tent-khaki",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090255131"
+    },
+    {
+      "product_id": "P-JAN-4570090255162",
+      "category": "camping",
+      "product": "AS2OV FOLDING TABLE フォールディングテーブル",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090255162-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/folding-table",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090255162"
+    },
+    {
+      "product_id": "P-JAN-4570090255377",
+      "category": "camping",
+      "product": "AS2OV ORIGINAL CAMO POLYCA SERIES HIGH BACK RECLINING LOW ROVER CHAIR オリジナルカモポリカシリーズ リクライニングハイバックローバーチェア",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090255377-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/original-camo-polyca-series-high-back-reclining-low-rover-chair-camo",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090255377"
+    },
+    {
+      "product_id": "P-JAN-4570090253328",
+      "category": "camping",
+      "product": "SIDE TABLE LEFT for AS2OV ROVER CHAIR ローバーチェアサイドテーブルレフト",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4570090253328-as2ov",
+          "store": "AS2OV公式",
+          "status": "IN_STOCK",
+          "url": "https://as2ov.jp/products/side-table-left-for-as2ov-rover-chair",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "AS2OV",
+      "barcode": "4570090253328"
+    },
+    {
+      "product_id": "P-JAN-8809817184871",
+      "category": "camping",
+      "product": "CARGO CONTAINER FIRE PIT MAX LOG LEG ファイアピットマックス ロングレッグ カーゴコンテナ",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-8809817184871-camp-link",
+          "store": "CAMP LINK",
+          "status": "IN_STOCK",
+          "url": "https://shop.camp-link.com/products/cl-8809817184871",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "CARGO CONTAINER",
+      "barcode": "8809817184871"
+    },
+    {
+      "product_id": "P-JAN-4580702320034",
+      "category": "camping",
+      "product": "TOKYO CRAFTS 焚き火台KUBERU",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702320034-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/products-001-kuberu",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702320034"
+    },
+    {
+      "product_id": "P-JAN-4580702321147",
+      "category": "camping",
+      "product": "TOKYO CRAFTS メバ 焚き火台",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702321147-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/products-150-meba-bbq-grill",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702321147"
+    },
+    {
+      "product_id": "P-JAN-4580702322922",
+      "category": "camping",
+      "product": "TOKYO CRAFTS リッジケトル",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322922-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc261-ridge-kettle",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322922"
+    },
+    {
+      "product_id": "P-JAN-4580702322625",
+      "category": "camping",
+      "product": "TOKYO CRAFTS NANGA別注 スリーピングバッグ ピロー",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322625-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/tc280-nanga-sleeping-bag-pillow",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322625"
+    },
+    {
+      "product_id": "P-JAN-4580702322779",
+      "category": "camping",
+      "product": "TOKYO CRAFTS 焚き火トング",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322779-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc375-fire-tongs",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322779"
+    },
+    {
+      "product_id": "P-JAN-4580702322991",
+      "category": "camping",
+      "product": "TOKYO CRAFTS HANARE ハナレ エアフレームテント",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322991-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc376-hanare-air-frame-tent",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322991"
+    },
+    {
+      "product_id": "P-JAN-4580702322786",
+      "category": "camping",
+      "product": "TOKYO CRAFTS モノライントング ファイン",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322786-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc391-monolinetongs-fine",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322786"
+    },
+    {
+      "product_id": "P-JAN-4580702322793",
+      "category": "camping",
+      "product": "TOKYO CRAFTS モノライントング ワイド",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322793-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc392-monolinetongs-wide",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322793"
+    },
+    {
+      "product_id": "P-JAN-4580702322762",
+      "category": "camping",
+      "product": "TOKYO CRAFTS エアソフトクーラー 10L",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322762-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc406-air-soft-cooler",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322762"
+    },
+    {
+      "product_id": "P-JAN-4580702322755",
+      "category": "camping",
+      "product": "TOKYO CRAFTS ハイブリッドエアピロー",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322755-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc410-hybrid-air-pillow",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322755"
+    },
+    {
+      "product_id": "P-JAN-4580702323004",
+      "category": "camping",
+      "product": "TOKYO CRAFTS HANARE ハナレ インナールーフ 遮光プラス",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702323004-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/tc473-hanare-inner-roof-blackout-plus",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702323004"
+    },
+    {
+      "product_id": "P-JAN-4580702323011",
+      "category": "camping",
+      "product": "TOKYO CRAFTS HANARE ハナレ TPUウィンドウ",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702323011-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc474-hanare-tpu-window",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702323011"
+    },
+    {
+      "product_id": "P-JAN-4580702322892",
+      "category": "camping",
+      "product": "TOKYO CRAFTS NANGA別注 オーロラテックス スクエアフット 600DX",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322892-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "IN_STOCK",
+          "url": "https://tokyocrafts.jp/products/tc477-nanga-aurora-tex-square-foot-600dx",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322892"
+    },
+    {
+      "product_id": "P-JAN-4580702322908",
+      "category": "camping",
+      "product": "TOKYO CRAFTS NANGA別注 スリーピングバッグ ピロー メッシュ",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322908-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "IN_STOCK",
+          "url": "https://tokyocrafts.jp/products/tc478-nanga-sleeping-bag-pillow-mesh",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322908"
+    },
+    {
+      "product_id": "P-JAN-4580702322915",
+      "category": "camping",
+      "product": "TOKYO CRAFTS NANGA別注 ダウンブランケット シングル【リバーシブル仕様】",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322915-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "PREORDER",
+          "url": "https://tokyocrafts.jp/products/tc479-nanga-down-blanket-single",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322915"
+    },
+    {
+      "product_id": "P-JAN-4580702322960",
+      "category": "camping",
+      "product": "TOKYO CRAFTS GEAR MISSION別注 K3-GM1 クッキングストーブ",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580702322960-tokyocrafts",
+          "store": "TOKYO CRAFTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://tokyocrafts.jp/products/tc480-gear-mission-k3-cookingstove",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "TOKYO CRAFTS",
+      "barcode": "4580702322960"
+    },
+    {
+      "product_id": "P-JAN-4580564023500",
+      "category": "camping",
+      "product": "ZANE ARTS BAMI",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023500-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "IN_STOCK",
+          "url": "https://zanearts.com/products/bami",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023500"
+    },
+    {
+      "product_id": "P-JAN-4580564020714",
+      "category": "camping",
+      "product": "ZANE ARTS GIMORG",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564020714-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "IN_STOCK",
+          "url": "https://zanearts.com/products/gimorg",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564020714"
+    },
+    {
+      "product_id": "P-JAN-4580564023456",
+      "category": "camping",
+      "product": "ZANE ARTS KIIRA",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023456-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/kiira",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023456"
+    },
+    {
+      "product_id": "P-JAN-4580564023470",
+      "category": "camping",
+      "product": "ZANE ARTS TAO-1",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023470-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/tao-1",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023470"
+    },
+    {
+      "product_id": "P-JAN-4580564023487",
+      "category": "camping",
+      "product": "ZANE ARTS TAO-2",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023487-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/tao-2",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023487"
+    },
+    {
+      "product_id": "P-JAN-4580564024088",
+      "category": "camping",
+      "product": "ZANE ARTS TITANIUM STACKING TUMBLER",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564024088-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/titanium-stacking-tumbler",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564024088"
+    },
+    {
+      "product_id": "P-JAN-4580564023494",
+      "category": "camping",
+      "product": "ZANE ARTS TOIRO TC",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023494-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/toiro-tc",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023494"
+    },
+    {
+      "product_id": "P-JAN-4580564023463",
+      "category": "camping",
+      "product": "ZANE ARTS YOMA",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023463-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/yoma",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023463"
+    },
+    {
+      "product_id": "P-JAN-4580564023449",
+      "category": "camping",
+      "product": "ZANE ARTS ZEKU RU",
+      "observations": 1,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "P-JAN-4580564023449-zanearts",
+          "store": "ZANE ARTS公式",
+          "status": "OUT_OF_STOCK",
+          "url": "https://zanearts.com/products/zeku-ru",
+          "last_reliable_checked_at": "2026-10-04T11:19:32+00:00",
+          "marketplace": "official"
+        }
+      ],
+      "brand": "ZANE ARTS",
+      "barcode": "4580564023449"
     }
   ]
 }
