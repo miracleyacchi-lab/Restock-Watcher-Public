@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T07:08:53+00:00",
+  "generated_at": "2026-10-09T08:08:54+00:00",
   "product_count": 96,
   "category_counts": {
     "fishing": 27,
@@ -17,7 +17,7 @@
       "product_id": "F01",
       "category": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 1,
       "offers": [
         {
@@ -26,11 +26,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f/detail-38369",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -41,23 +44,30 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/ps-marin/kage124f-sh.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
         }
       ],
-      "barcode": "4513473448416"
+      "barcode": "4513473448416",
+      "variant": {
+        "variant_id": "V-F01-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F02",
       "category": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -66,23 +76,30 @@
           "status": "OUT_OF_STOCK",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-kagelou124f/detail-38360",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
         }
       ],
-      "barcode": "4513473448324"
+      "barcode": "4513473448324",
+      "variant": {
+        "variant_id": "V-F02-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F03",
       "category": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -91,23 +108,30 @@
           "status": "PREORDER",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/detail-58342",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
         }
       ],
-      "barcode": "4513473560170"
+      "barcode": "4513473560170",
+      "variant": {
+        "variant_id": "V-F03-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F04",
       "category": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -116,11 +140,14 @@
           "status": "PREORDER",
           "url": "https://jp.megabassstore.jp/c/new2026/detail-58312",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -131,11 +158,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/d-park/4513473559877.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 2046,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -146,23 +176,32 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/casting/4513473559877.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
         }
       ],
-      "barcode": "4513473559877"
+      "barcode": "4513473559877",
+      "variant": {
+        "variant_id": "V-F04-001",
+        "attributes": {
+          "color": "GG アカキンボラCH"
+        }
+      }
     },
     {
       "product_id": "F05",
       "category": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim #01 ブルーブルー",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -171,18 +210,25 @@
           "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/002089/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "BlueBlue",
-      "barcode": "4589945518208"
+      "barcode": "4589945518208",
+      "variant": {
+        "variant_id": "V-F05-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F06",
       "category": "fishing",
       "product": "BlueBlue ブローウィン60S #01 ブルーブルー",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -191,11 +237,18 @@
           "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005570/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F06-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F07",
@@ -211,10 +264,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/006297/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F07-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F08",
@@ -230,10 +290,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/006424/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F08-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F09",
@@ -249,10 +316,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/005147/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F09-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F10",
@@ -268,16 +342,23 @@
           "url": "https://www.bluebluefishing.com/item/detail/006454/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F10-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C01",
       "category": "camping",
       "product": "TOKYO CRAFTS コードユニット ブラック",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -286,11 +367,14 @@
           "status": "PREORDER",
           "url": "https://tokyocrafts.jp/products/tc-283-coordunit-black",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "price": {
             "amount": 9900,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -301,11 +385,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/west-shop/831976-831977.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 9900,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -316,11 +403,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/efim/4580702321819.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 9900,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -328,13 +418,17 @@
       ],
       "brand": "TOKYO CRAFTS",
       "barcode": "4580702321819",
-      "sku": "TC-07040200000"
+      "sku": "TC-07040200000",
+      "variant": {
+        "variant_id": "V-C01-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C02",
       "category": "camping",
       "product": "TOKYO CRAFTS テンビ シェルター ブラック",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -343,11 +437,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://tokyocrafts.jp/products/products-188-tenbi_black",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 56980,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -359,18 +456,24 @@
           "url": "https://item.rakuten.co.jp/lapert/4580702321352/",
           "monitoring_status": "active",
           "last_reliable_checked_at": null,
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "ERROR",
           "marketplace": "楽天市場"
         }
       ],
       "brand": "TOKYO CRAFTS",
       "barcode": "4580702321352",
-      "sku": "TC-01190200000"
+      "sku": "TC-01190200000",
+      "variant": {
+        "variant_id": "V-C02-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C03",
       "category": "camping",
       "product": "38explore 38灯 MIYABI OD",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 1,
       "offers": [
         {
@@ -379,17 +482,24 @@
           "status": "IN_STOCK",
           "url": "https://www.38explore.com/items/74563512",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 6930,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
         }
       ],
-      "brand": "38explore"
+      "brand": "38explore",
+      "variant": {
+        "variant_id": "V-C03-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C04",
@@ -405,16 +515,23 @@
           "url": "https://www.38explore.com/items/74563544",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "38explore"
+      "brand": "38explore",
+      "variant": {
+        "variant_id": "V-C04-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C05",
       "category": "camping",
       "product": "サンゾー工務店 IRON TABLE",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -424,10 +541,13 @@
           "url": "https://www.3zo.online/products/iron-table",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-06T03:20:47+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "UNKNOWN",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 26950,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -438,11 +558,14 @@
           "status": "IN_STOCK",
           "url": "https://sharefield.base.shop/items/88512511",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 26950,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "独立EC"
@@ -453,11 +576,14 @@
           "status": "IN_STOCK",
           "url": "https://sendaisuburb.thebase.in/items/127887063",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 25850,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "独立EC"
@@ -468,17 +594,24 @@
           "status": "OUT_OF_STOCK",
           "url": "https://labelinc.co.jp/products/%E3%82%B5%E3%83%B3%E3%82%BE%E3%83%BC%E5%B7%A5%E5%8B%99%E5%BA%97-iron-table",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 25850,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "独立EC"
         }
       ],
-      "brand": "サンゾー工務店"
+      "brand": "サンゾー工務店",
+      "variant": {
+        "variant_id": "V-C05-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C06",
@@ -494,6 +627,9 @@
           "url": "https://www.3zo.online/products/iron-table-mini",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         },
         {
@@ -503,10 +639,17 @@
           "url": "https://labelinc.co.jp/products/%E3%82%B5%E3%83%B3%E3%82%BE%E3%83%BC%E5%B7%A5%E5%8B%99%E5%BA%97-iron-table-mini",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "独立EC"
         }
       ],
-      "brand": "サンゾー工務店"
+      "brand": "サンゾー工務店",
+      "variant": {
+        "variant_id": "V-C06-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C10",
@@ -522,10 +665,17 @@
           "url": "https://www.3zo.online/products/iron-table-mini-chikkafinish",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "サンゾー工務店"
+      "brand": "サンゾー工務店",
+      "variant": {
+        "variant_id": "V-C10-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F11",
@@ -541,10 +691,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F11-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F12",
@@ -560,10 +717,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/003516/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F12-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F13",
@@ -579,10 +743,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/006196/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F13-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F14",
@@ -598,10 +769,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/004852/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F14-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F15",
@@ -617,10 +795,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/000554/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F15-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F16",
@@ -636,10 +821,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F16-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F17",
@@ -655,10 +847,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/005215/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F17-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F18",
@@ -674,10 +873,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/002389/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F18-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C11",
@@ -693,6 +899,9 @@
           "url": "https://as2ov.jp/products/reclining-low-rover-chair-black-1",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         },
         {
@@ -702,17 +911,24 @@
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-868.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090248973"
+      "barcode": "4570090248973",
+      "variant": {
+        "variant_id": "V-C11-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C12",
       "category": "camping",
       "product": "Snow Peak シェルフコンテナ 25",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 1,
       "offers": [
         {
@@ -721,11 +937,14 @@
           "status": "IN_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0112A0338",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14520,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -737,6 +956,8 @@
           "url": "https://item.rakuten.co.jp/m-outdoor/ug-025g/",
           "monitoring_status": "active",
           "last_reliable_checked_at": null,
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "UNKNOWN",
           "marketplace": "楽天市場"
         },
         {
@@ -745,11 +966,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/sotosotodays/ug-025g.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14520,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -760,11 +984,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/sundaymountain/s06448.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 13789,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -775,11 +1002,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/himaraya/0000000422521.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 12342,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -790,11 +1020,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/basecamp-jp/03005sp008.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14520,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -805,11 +1038,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/naturum-outdoor/9910113.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 13790,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -820,11 +1056,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/signallyjapan-y/b009syf6yo.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 18028,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -835,11 +1074,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/sundaymountain-deals/s06448.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 13789,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -850,11 +1092,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/naturum-od/9910113.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 13790,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -865,11 +1110,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/store-hana/20260406161115-00463.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 17869,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -880,11 +1128,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/luxspei/kku28cb12af2f.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 17130,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -895,11 +1146,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/tamari-do/lifa3d695f84.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 15516,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -910,11 +1164,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/ririnana/1e130734e17.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 16578,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -925,11 +1182,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/atbousai/9910113.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 13790,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -940,11 +1200,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/engel-heart/aj4738mstyle3b70702ef1.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14679,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -955,11 +1218,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/seventh-color/d406232730af011.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 16985,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -970,11 +1236,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/remtory/remtory9c83eb784d.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 17022,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -985,11 +1254,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/goodlifemedia/tg966314f56f.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 17022,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1000,11 +1272,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/3c-online/3ca9b704df3e.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 15516,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1015,11 +1290,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/store-megasports/33913310.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14520,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1030,11 +1308,14 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/eternal-japan7/aj4718eterefdd99177e.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 14826,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1045,11 +1326,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/himarayaod/0000000422521.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 12342,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1060,11 +1344,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/camp-link/cl-4960589201228.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 13780,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1075,11 +1362,14 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/fishingmax-webshop/4960589201228.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "price": {
             "amount": 14520,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -1087,7 +1377,11 @@
       ],
       "brand": "Snow Peak",
       "barcode": "4960589201228",
-      "sku": "UG-025G"
+      "sku": "UG-025G",
+      "variant": {
+        "variant_id": "V-C12-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C13",
@@ -1103,17 +1397,24 @@
           "url": "https://ec.snowpeak.co.jp/item/SNP0125A0383",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "Snow Peak",
-      "sku": "FK-396"
+      "sku": "FK-396",
+      "variant": {
+        "variant_id": "V-C13-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C14",
       "category": "camping",
       "product": "NANGA×STANLEY スタッキング真空パイント",
-      "observations": 324,
+      "observations": 325,
       "restock_events": 0,
       "offers": [
         {
@@ -1123,10 +1424,17 @@
           "url": "https://store.nanga.jp/products/nanga-stanley-stacking-vacuum-pint",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-02T00:28:43+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "UNKNOWN",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "NANGA × STANLEY"
+      "brand": "NANGA × STANLEY",
+      "variant": {
+        "variant_id": "V-C14-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F19",
@@ -1142,10 +1450,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/003268/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F19-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F20",
@@ -1161,10 +1476,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/005516/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F20-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F21",
@@ -1180,10 +1502,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/005546/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F21-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F22",
@@ -1199,10 +1528,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/004448/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F22-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "F23",
@@ -1218,10 +1554,17 @@
           "url": "https://www.bluebluefishing.com/item/detail/005188/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
-      "brand": "BlueBlue"
+      "brand": "BlueBlue",
+      "variant": {
+        "variant_id": "V-F23-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C15",
@@ -1237,11 +1580,18 @@
           "url": "https://as2ov.jp/products/side-table-for-as2ov-rover-chair",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "sku": "392301-23"
+      "sku": "392301-23",
+      "variant": {
+        "variant_id": "V-C15-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C16",
@@ -1257,6 +1607,9 @@
           "url": "https://ec.snowpeak.co.jp/item/SNP0119A0265",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         },
         {
@@ -1266,6 +1619,8 @@
           "url": "https://item.rakuten.co.jp/m-outdoor/lv-086/",
           "monitoring_status": "paused",
           "last_reliable_checked_at": null,
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "UNKNOWN",
           "marketplace": "楽天市場"
         },
         {
@@ -1275,12 +1630,19 @@
           "url": "https://store.shopping.yahoo.co.jp/snowpeak/snp0119a0265.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "Snow Peak",
       "barcode": "4960589014446",
-      "sku": "LV-086"
+      "sku": "LV-086",
+      "variant": {
+        "variant_id": "V-C16-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "C17",
@@ -1296,17 +1658,24 @@
           "url": "https://ec.snowpeak.co.jp/item/SNP0124A0647",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "Snow Peak",
-      "sku": "LV-091-AZ"
+      "sku": "LV-091-AZ",
+      "variant": {
+        "variant_id": "V-C17-001",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090255339",
       "category": "camping",
       "product": "AS2OV NYLON POLYCARBONATECOT BLACK ナイロンポリカーボネートコット",
-      "observations": 128,
+      "observations": 129,
       "restock_events": 0,
       "offers": [
         {
@@ -1315,11 +1684,14 @@
           "status": "IN_STOCK",
           "url": "https://as2ov.jp/products/cot-black",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 40700,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -1330,18 +1702,25 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-1146.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 40700,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090255339"
+      "barcode": "4570090255339",
+      "variant": {
+        "variant_id": "V-JAN-4570090255339",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090255124",
@@ -1357,6 +1736,9 @@
           "url": "https://as2ov.jp/products/cot-tent-black",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         },
         {
@@ -1366,6 +1748,9 @@
           "url": "https://store.shopping.yahoo.co.jp/wins/492500-10.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1375,6 +1760,9 @@
           "url": "https://store.shopping.yahoo.co.jp/naturum-od/9995648.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1384,6 +1772,9 @@
           "url": "https://store.shopping.yahoo.co.jp/naturum-outdoor/9995648.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1393,6 +1784,9 @@
           "url": "https://store.shopping.yahoo.co.jp/atbousai/9995648.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1402,11 +1796,18 @@
           "url": "https://store.shopping.yahoo.co.jp/west-shop/822621-822622.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090255124"
+      "barcode": "4570090255124",
+      "variant": {
+        "variant_id": "V-JAN-4570090255124",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090255131",
@@ -1422,6 +1823,9 @@
           "url": "https://as2ov.jp/products/cot-tent-khaki",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         },
         {
@@ -1431,6 +1835,9 @@
           "url": "https://store.shopping.yahoo.co.jp/naturum-outdoor/9995649.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1440,6 +1847,9 @@
           "url": "https://store.shopping.yahoo.co.jp/naturum-od/9995649.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1449,11 +1859,18 @@
           "url": "https://store.shopping.yahoo.co.jp/atbousai/9995649.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090255131"
+      "barcode": "4570090255131",
+      "variant": {
+        "variant_id": "V-JAN-4570090255131",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090255162",
@@ -1469,6 +1886,9 @@
           "url": "https://as2ov.jp/products/folding-table",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         },
         {
@@ -1478,6 +1898,9 @@
           "url": "https://store.shopping.yahoo.co.jp/field-seven/4570090255162.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1487,6 +1910,9 @@
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-1147.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1496,11 +1922,18 @@
           "url": "https://store.shopping.yahoo.co.jp/wins/492502-10.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090255162"
+      "barcode": "4570090255162",
+      "variant": {
+        "variant_id": "V-JAN-4570090255162",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090255377",
@@ -1516,11 +1949,18 @@
           "url": "https://as2ov.jp/products/original-camo-polyca-series-high-back-reclining-low-rover-chair-camo",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090255377"
+      "barcode": "4570090255377",
+      "variant": {
+        "variant_id": "V-JAN-4570090255377",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090253328",
@@ -1536,6 +1976,9 @@
           "url": "https://as2ov.jp/products/side-table-left-for-as2ov-rover-chair",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         },
         {
@@ -1545,6 +1988,9 @@
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-932.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -1554,11 +2000,18 @@
           "url": "https://store.shopping.yahoo.co.jp/wins/392302-23.html",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "Yahoo!ショッピング"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090253328"
+      "barcode": "4570090253328",
+      "variant": {
+        "variant_id": "V-JAN-4570090253328",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-8809817184871",
@@ -1574,11 +2027,18 @@
           "url": "https://shop.camp-link.com/products/cl-8809817184871",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "CARGO CONTAINER",
-      "barcode": "8809817184871"
+      "barcode": "8809817184871",
+      "variant": {
+        "variant_id": "V-JAN-8809817184871",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702320034",
@@ -1594,11 +2054,18 @@
           "url": "https://tokyocrafts.jp/products/products-001-kuberu",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702320034"
+      "barcode": "4580702320034",
+      "variant": {
+        "variant_id": "V-JAN-4580702320034",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702321147",
@@ -1614,11 +2081,18 @@
           "url": "https://tokyocrafts.jp/products/products-150-meba-bbq-grill",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702321147"
+      "barcode": "4580702321147",
+      "variant": {
+        "variant_id": "V-JAN-4580702321147",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322922",
@@ -1634,11 +2108,18 @@
           "url": "https://tokyocrafts.jp/products/tc261-ridge-kettle",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322922"
+      "barcode": "4580702322922",
+      "variant": {
+        "variant_id": "V-JAN-4580702322922",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322625",
@@ -1654,11 +2135,18 @@
           "url": "https://tokyocrafts.jp/products/tc280-nanga-sleeping-bag-pillow",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322625"
+      "barcode": "4580702322625",
+      "variant": {
+        "variant_id": "V-JAN-4580702322625",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322779",
@@ -1674,11 +2162,18 @@
           "url": "https://tokyocrafts.jp/products/tc375-fire-tongs",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322779"
+      "barcode": "4580702322779",
+      "variant": {
+        "variant_id": "V-JAN-4580702322779",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322991",
@@ -1694,11 +2189,18 @@
           "url": "https://tokyocrafts.jp/products/tc376-hanare-air-frame-tent",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322991"
+      "barcode": "4580702322991",
+      "variant": {
+        "variant_id": "V-JAN-4580702322991",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322786",
@@ -1714,11 +2216,18 @@
           "url": "https://tokyocrafts.jp/products/tc391-monolinetongs-fine",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322786"
+      "barcode": "4580702322786",
+      "variant": {
+        "variant_id": "V-JAN-4580702322786",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322793",
@@ -1734,11 +2243,18 @@
           "url": "https://tokyocrafts.jp/products/tc392-monolinetongs-wide",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322793"
+      "barcode": "4580702322793",
+      "variant": {
+        "variant_id": "V-JAN-4580702322793",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322762",
@@ -1754,11 +2270,18 @@
           "url": "https://tokyocrafts.jp/products/tc406-air-soft-cooler",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322762"
+      "barcode": "4580702322762",
+      "variant": {
+        "variant_id": "V-JAN-4580702322762",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322755",
@@ -1774,11 +2297,18 @@
           "url": "https://tokyocrafts.jp/products/tc410-hybrid-air-pillow",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322755"
+      "barcode": "4580702322755",
+      "variant": {
+        "variant_id": "V-JAN-4580702322755",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702323004",
@@ -1794,11 +2324,18 @@
           "url": "https://tokyocrafts.jp/products/tc473-hanare-inner-roof-blackout-plus",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702323004"
+      "barcode": "4580702323004",
+      "variant": {
+        "variant_id": "V-JAN-4580702323004",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702323011",
@@ -1814,11 +2351,18 @@
           "url": "https://tokyocrafts.jp/products/tc474-hanare-tpu-window",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702323011"
+      "barcode": "4580702323011",
+      "variant": {
+        "variant_id": "V-JAN-4580702323011",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322892",
@@ -1834,11 +2378,18 @@
           "url": "https://tokyocrafts.jp/products/tc477-nanga-aurora-tex-square-foot-600dx",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322892"
+      "barcode": "4580702322892",
+      "variant": {
+        "variant_id": "V-JAN-4580702322892",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322908",
@@ -1854,11 +2405,18 @@
           "url": "https://tokyocrafts.jp/products/tc478-nanga-sleeping-bag-pillow-mesh",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322908"
+      "barcode": "4580702322908",
+      "variant": {
+        "variant_id": "V-JAN-4580702322908",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322915",
@@ -1874,11 +2432,18 @@
           "url": "https://tokyocrafts.jp/products/tc479-nanga-down-blanket-single",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "PREORDER",
+          "last_reliable_status": "PREORDER",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322915"
+      "barcode": "4580702322915",
+      "variant": {
+        "variant_id": "V-JAN-4580702322915",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702322960",
@@ -1894,11 +2459,18 @@
           "url": "https://tokyocrafts.jp/products/tc480-gear-mission-k3-cookingstove",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702322960"
+      "barcode": "4580702322960",
+      "variant": {
+        "variant_id": "V-JAN-4580702322960",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023500",
@@ -1914,11 +2486,18 @@
           "url": "https://zanearts.com/products/bami",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023500"
+      "barcode": "4580564023500",
+      "variant": {
+        "variant_id": "V-JAN-4580564023500",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020714",
@@ -1934,11 +2513,18 @@
           "url": "https://zanearts.com/products/gimorg",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020714"
+      "barcode": "4580564020714",
+      "variant": {
+        "variant_id": "V-JAN-4580564020714",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023456",
@@ -1954,11 +2540,18 @@
           "url": "https://zanearts.com/products/kiira",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023456"
+      "barcode": "4580564023456",
+      "variant": {
+        "variant_id": "V-JAN-4580564023456",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023470",
@@ -1974,11 +2567,18 @@
           "url": "https://zanearts.com/products/tao-1",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023470"
+      "barcode": "4580564023470",
+      "variant": {
+        "variant_id": "V-JAN-4580564023470",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023487",
@@ -1994,11 +2594,18 @@
           "url": "https://zanearts.com/products/tao-2",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023487"
+      "barcode": "4580564023487",
+      "variant": {
+        "variant_id": "V-JAN-4580564023487",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564024088",
@@ -2014,11 +2621,18 @@
           "url": "https://zanearts.com/products/titanium-stacking-tumbler",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564024088"
+      "barcode": "4580564024088",
+      "variant": {
+        "variant_id": "V-JAN-4580564024088",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023494",
@@ -2034,11 +2648,18 @@
           "url": "https://zanearts.com/products/toiro-tc",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023494"
+      "barcode": "4580564023494",
+      "variant": {
+        "variant_id": "V-JAN-4580564023494",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023463",
@@ -2054,11 +2675,18 @@
           "url": "https://zanearts.com/products/yoma",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023463"
+      "barcode": "4580564023463",
+      "variant": {
+        "variant_id": "V-JAN-4580564023463",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564023449",
@@ -2074,11 +2702,18 @@
           "url": "https://zanearts.com/products/zeku-ru",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564023449"
+      "barcode": "4580564023449",
+      "variant": {
+        "variant_id": "V-JAN-4580564023449",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702320935",
@@ -2094,11 +2729,18 @@
           "url": "https://tokyocrafts.jp/products/products-095-wingfort",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702320935"
+      "barcode": "4580702320935",
+      "variant": {
+        "variant_id": "V-JAN-4580702320935",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702320942",
@@ -2114,11 +2756,18 @@
           "url": "https://tokyocrafts.jp/products/products-028-machaon",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702320942"
+      "barcode": "4580702320942",
+      "variant": {
+        "variant_id": "V-JAN-4580702320942",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702321659",
@@ -2134,11 +2783,18 @@
           "url": "https://tokyocrafts.jp/products/products-184-habisol",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702321659"
+      "barcode": "4580702321659",
+      "variant": {
+        "variant_id": "V-JAN-4580702321659",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702321413",
@@ -2154,11 +2810,18 @@
           "url": "https://tokyocrafts.jp/products/products-181-grahus",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702321413"
+      "barcode": "4580702321413",
+      "variant": {
+        "variant_id": "V-JAN-4580702321413",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702320980",
@@ -2174,11 +2837,18 @@
           "url": "https://tokyocrafts.jp/products/products-108-makulite-titanium",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702320980"
+      "barcode": "4580702320980",
+      "variant": {
+        "variant_id": "V-JAN-4580702320980",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702321390",
@@ -2194,11 +2864,18 @@
           "url": "https://tokyocrafts.jp/products/products-023r-jikatable",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702321390"
+      "barcode": "4580702321390",
+      "variant": {
+        "variant_id": "V-JAN-4580702321390",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580702320355",
@@ -2214,11 +2891,18 @@
           "url": "https://tokyocrafts.jp/products/products-036-bucketshelfmesh",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "TOKYO CRAFTS",
-      "barcode": "4580702320355"
+      "barcode": "4580702320355",
+      "variant": {
+        "variant_id": "V-JAN-4580702320355",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090251782",
@@ -2234,11 +2918,18 @@
           "url": "https://as2ov.jp/products/lantern-stand-renewal",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090251782"
+      "barcode": "4570090251782",
+      "variant": {
+        "variant_id": "V-JAN-4570090251782",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090248263",
@@ -2254,11 +2945,18 @@
           "url": "https://as2ov.jp/products/multi-cusion-black",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090248263"
+      "barcode": "4570090248263",
+      "variant": {
+        "variant_id": "V-JAN-4570090248263",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090254646",
@@ -2274,11 +2972,18 @@
           "url": "https://as2ov.jp/products/alberton-fire-proof-multi-cushion-khaki",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090254646"
+      "barcode": "4570090254646",
+      "variant": {
+        "variant_id": "V-JAN-4570090254646",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090254479",
@@ -2294,11 +2999,18 @@
           "url": "https://as2ov.jp/products/rover-chair-seat-black",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090254479"
+      "barcode": "4570090254479",
+      "variant": {
+        "variant_id": "V-JAN-4570090254479",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090254738",
@@ -2314,11 +3026,20 @@
           "url": "https://as2ov.jp/products/portable-stick-burner-renewal?variant=50603235279146",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090254738"
+      "barcode": "4570090254738",
+      "variant": {
+        "variant_id": "V-JAN-4570090254738",
+        "attributes": {
+          "color": "BLACK"
+        }
+      }
     },
     {
       "product_id": "P-JAN-4570090245477",
@@ -2334,11 +3055,18 @@
           "url": "https://as2ov.jp/products/as2ov-nylon-polycarbonate-cook-ware-khaki",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090245477"
+      "barcode": "4570090245477",
+      "variant": {
+        "variant_id": "V-JAN-4570090245477",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4570090247525",
@@ -2354,11 +3082,20 @@
           "url": "https://as2ov.jp/products/lantern-cover-for-goalzero-1?variant=44423779549482",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090247525"
+      "barcode": "4570090247525",
+      "variant": {
+        "variant_id": "V-JAN-4570090247525",
+        "attributes": {
+          "color": "BLACK"
+        }
+      }
     },
     {
       "product_id": "P-JAN-4570090247594",
@@ -2374,11 +3111,20 @@
           "url": "https://as2ov.jp/products/lantern-shade-for-goalzero?variant=44335085715754",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "AS2OV",
-      "barcode": "4570090247594"
+      "barcode": "4570090247594",
+      "variant": {
+        "variant_id": "V-JAN-4570090247594",
+        "attributes": {
+          "color": "BLACK"
+        }
+      }
     },
     {
       "product_id": "P-JAN-4580564020318",
@@ -2394,11 +3140,18 @@
           "url": "https://zanearts.com/products/lolo",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020318"
+      "barcode": "4580564020318",
+      "variant": {
+        "variant_id": "V-JAN-4580564020318",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020028",
@@ -2414,11 +3167,18 @@
           "url": "https://zanearts.com/products/gigi-1",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020028"
+      "barcode": "4580564020028",
+      "variant": {
+        "variant_id": "V-JAN-4580564020028",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020059",
@@ -2434,11 +3194,18 @@
           "url": "https://zanearts.com/products/gigi-2",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020059"
+      "barcode": "4580564020059",
+      "variant": {
+        "variant_id": "V-JAN-4580564020059",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020011",
@@ -2454,11 +3221,18 @@
           "url": "https://zanearts.com/products/zeku-m",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020011"
+      "barcode": "4580564020011",
+      "variant": {
+        "variant_id": "V-JAN-4580564020011",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020158",
@@ -2474,11 +3248,18 @@
           "url": "https://zanearts.com/products/zeku-l",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020158"
+      "barcode": "4580564020158",
+      "variant": {
+        "variant_id": "V-JAN-4580564020158",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020042",
@@ -2494,11 +3275,18 @@
           "url": "https://zanearts.com/products/geu",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020042"
+      "barcode": "4580564020042",
+      "variant": {
+        "variant_id": "V-JAN-4580564020042",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020172",
@@ -2514,11 +3302,18 @@
           "url": "https://zanearts.com/products/okitoma-2",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020172"
+      "barcode": "4580564020172",
+      "variant": {
+        "variant_id": "V-JAN-4580564020172",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4580564020431",
@@ -2534,17 +3329,24 @@
           "url": "https://zanearts.com/products/roga",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "ZANE ARTS",
-      "barcode": "4580564020431"
+      "barcode": "4580564020431",
+      "variant": {
+        "variant_id": "V-JAN-4580564020431",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4513473503832",
       "category": "fishing",
       "product": "KAGELOU MD 125F GG キンボラ",
-      "observations": 49,
+      "observations": 50,
       "restock_events": 0,
       "offers": [
         {
@@ -2553,18 +3355,25 @@
           "status": "IN_STOCK",
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/detail-49036",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-10-09T07:07:17+00:00",
+          "last_reliable_checked_at": "2026-10-09T08:07:17+00:00",
+          "last_attempt_at": "2026-10-09T08:07:17+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-10-09T07:07:17+00:00",
+            "checked_at": "2026-10-09T08:07:17+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
         }
       ],
       "brand": "Megabass",
-      "barcode": "4513473503832"
+      "barcode": "4513473503832",
+      "variant": {
+        "variant_id": "V-JAN-4513473503832",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4513473488993",
@@ -2580,11 +3389,18 @@
           "url": "https://jp.megabassstore.jp/c/lure/lure-genma85s-13g/detail-46238",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "Megabass",
-      "barcode": "4513473488993"
+      "barcode": "4513473488993",
+      "variant": {
+        "variant_id": "V-JAN-4513473488993",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4513473515262",
@@ -2600,11 +3416,18 @@
           "url": "https://jp.megabassstore.jp/c/salt/salt-lure/salt-lure-minnow/lure-sazanka/detail-51400",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "Megabass",
-      "barcode": "4513473515262"
+      "barcode": "4513473515262",
+      "variant": {
+        "variant_id": "V-JAN-4513473515262",
+        "attributes": {}
+      }
     },
     {
       "product_id": "P-JAN-4513473212864",
@@ -2620,11 +3443,18 @@
           "url": "https://jp.megabassstore.jp/c/target/target-bass/target-bass-lure/target-bass-lure-minnow/target-bass-lure-minnow-046/detail-10702",
           "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-10-07T15:37:38+00:00",
+          "last_attempt_at": "2026-10-07T15:37:38+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "marketplace": "official"
         }
       ],
       "brand": "Megabass",
-      "barcode": "4513473212864"
+      "barcode": "4513473212864",
+      "variant": {
+        "variant_id": "V-JAN-4513473212864",
+        "attributes": {}
+      }
     }
   ]
 }
