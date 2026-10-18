@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T09:09:41+00:00",
-  "product_count": 100,
+  "generated_at": "2026-10-18T09:58:53+00:00",
+  "product_count": 101,
   "category_counts": {
     "fishing": 27,
-    "camping": 72,
+    "camping": 73,
     "other": 1
   },
   "status_counts": {
-    "IN_STOCK": 17,
+    "IN_STOCK": 18,
     "OUT_OF_STOCK": 4,
     "UNKNOWN": 79
   },
@@ -40104,6 +40104,79 @@
         "キャンプ",
         "キャンプ用品",
         "ry44247SB-131"
+      ]
+    },
+    {
+      "product_id": "P-RK-914ccbc63e2caf5ef1415650",
+      "category": "camping",
+      "product": "DOD(ディーオーディー) fave mug & cover フェイブマグアンドカバー マグ コップ 蓋付きマグカップ シリコンカバー 電子レンジ 食洗機対応 300ml おしゃれ 330 さんさんまる DH1-020-GR-M [グリーン / 型番 DH1-020-GR-M / SKU gr-e94hhhhwnv]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-cab1c1aecb87c4ea370f5910",
+          "variant_id": "V-RK-914ccbc63e2caf5ef1415650",
+          "store": "fleurette01 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/fleurette01/gr-e94hhhhwnv/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-18T09:58:27+00:00",
+          "last_attempt_at": "2026-10-18T09:58:27+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-18T09:58:27+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3790,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 3790,
+            "currency": "JPY",
+            "checked_at": "2026-10-18T09:58:27+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-914ccbc63e2caf5ef1415650",
+          "attributes": {
+            "retailer_sku": "gr-e94hhhhwnv"
+          },
+          "offer_ids": [
+            "O-cab1c1aecb87c4ea370f5910"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-914ccbc63e2caf5ef1415650",
+        "attributes": {
+          "retailer_sku": "gr-e94hhhhwnv"
+        }
+      },
+      "subcategory": "drinkware",
+      "search_keywords": [
+        "カップ",
+        "ボトル",
+        "タンブラー",
+        "マグ",
+        "cup",
+        "bottle",
+        "tumbler",
+        "mug",
+        "アウトドア",
+        "キャンプ",
+        "キャンプ用品",
+        "gr-e94hhhhwnv"
       ]
     }
   ]
