@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-19T13:10:08+00:00",
-  "product_count": 101,
+  "generated_at": "2026-10-19T13:17:00+00:00",
+  "product_count": 102,
   "category_counts": {
     "ルアー": 6,
     "other": 19,
@@ -9,10 +9,11 @@
     "camping": 58,
     "テーブル": 3,
     "テント": 1,
-    "バスルアー": 1
+    "バスルアー": 1,
+    "照明": 1
   },
   "status_counts": {
-    "IN_STOCK": 18,
+    "IN_STOCK": 19,
     "OUT_OF_STOCK": 4,
     "UNKNOWN": 79
   },
@@ -41247,6 +41248,76 @@
         "キャンプ",
         "キャンプ用品",
         "gr-e94hhhhwnv"
+      ]
+    },
+    {
+      "product_id": "P-RK-449fb64b5d976790096397c8",
+      "category": "照明",
+      "category_id": "cat-098294eeccc238f7cd88",
+      "category_path": [
+        "照明"
+      ],
+      "category_group": "other",
+      "product": "ZEN Camps ZEN Light Shell ランタンシェード ゴールゼロ 対応 LEDランタン オイルランタン 兼用 おしゃれ 収納ケース付き キャンプ アウトドア [ブラック / 型番 SM-9RPH-N6NE / SKU SM-9RPH-N6NE]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-e818bc10a3b8ff1a294ceed8",
+          "variant_id": "V-RK-449fb64b5d976790096397c8",
+          "store": "zen-camps 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/zen-camps/zen_light_shell/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-19T13:16:34+00:00",
+          "last_attempt_at": "2026-10-19T13:16:34+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-19T13:16:34+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 12980,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 12980,
+            "currency": "JPY",
+            "checked_at": "2026-10-19T13:16:34+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-449fb64b5d976790096397c8",
+          "attributes": {
+            "retailer_sku": "SM-9RPH-N6NE"
+          },
+          "offer_ids": [
+            "O-e818bc10a3b8ff1a294ceed8"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-449fb64b5d976790096397c8",
+        "attributes": {
+          "retailer_sku": "SM-9RPH-N6NE"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "照明",
+        "その他",
+        "SM-9RPH-N6NE"
       ]
     }
   ]
