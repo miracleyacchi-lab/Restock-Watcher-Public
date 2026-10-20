@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T23:11:20+00:00",
-  "product_count": 102,
+  "generated_at": "2026-10-20T23:21:43+00:00",
+  "product_count": 103,
   "category_counts": {
     "ルアー": 7,
-    "other": 33,
+    "other": 34,
     "テーブル": 3,
     "camping": 54,
     "椅子": 2,
@@ -13,7 +13,7 @@
     "照明": 1
   },
   "status_counts": {
-    "IN_STOCK": 18,
+    "IN_STOCK": 19,
     "OUT_OF_STOCK": 4,
     "UNKNOWN": 80
   },
@@ -42472,6 +42472,82 @@
         "SM-9RPH-N6NE"
       ],
       "discovery": []
+    },
+    {
+      "product_id": "P-RK-4447f5e0fd17409e095d6171",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "メガバス　カゲロウ 124F #GPレッドヘッド [#GPレッドヘッド / 型番 - / SKU 4513473448416]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-34dff192fe6b9145ad695b6f",
+          "variant_id": "V-RK-4447f5e0fd17409e095d6171",
+          "store": "fto-r 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/fto-r/4513473448416/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-20T23:21:15+00:00",
+          "last_attempt_at": "2026-10-20T23:21:15+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-20T23:21:15+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2530,
+            "currency": "JPY",
+            "checked_at": "2026-10-20T23:21:15+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-4447f5e0fd17409e095d6171",
+          "attributes": {
+            "retailer_sku": "4513473448416"
+          },
+          "offer_ids": [
+            "O-34dff192fe6b9145ad695b6f"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-4447f5e0fd17409e095d6171",
+        "attributes": {
+          "retailer_sku": "4513473448416"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "4513473448416"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-4447f5e0fd17409e095d6171",
+          "last_attempt_at": "2026-10-20T23:20:48.803326+00:00",
+          "status": "attempted"
+        }
+      ]
     }
   ]
 }
