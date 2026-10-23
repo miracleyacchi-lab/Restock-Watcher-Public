@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T11:27:50+00:00",
-  "product_count": 105,
+  "generated_at": "2026-10-23T11:38:53+00:00",
+  "product_count": 106,
   "category_counts": {
     "ルアー": 8,
-    "other": 36,
+    "other": 37,
     "テーブル": 3,
     "camping": 50,
     "椅子": 4,
@@ -13,7 +13,7 @@
     "照明": 2
   },
   "status_counts": {
-    "IN_STOCK": 22,
+    "IN_STOCK": 23,
     "OUT_OF_STOCK": 3,
     "UNKNOWN": 80
   },
@@ -51360,6 +51360,93 @@
         {
           "variant_id": "V-RK-02a1afea19f18b6ef687f74c",
           "last_attempt_at": "2026-10-23T11:26:47.645979+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-a27fbadf48a1400f1b7510f6",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "DOD(ディーオーディー)チーズタープM 張り方自由自在の超大型ポリコットンタープ TT10-739-TN [型番 TT10-739-TN / SKU gr-e9g0aqeogf]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-f118f8e6ed4551821e587202",
+          "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
+          "store": "happynight 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/happynight/gr-e9g0aqeogf/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-23T11:38:23+00:00",
+          "last_attempt_at": "2026-10-23T11:38:23+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-23T11:38:23+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 32249,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 32249,
+            "currency": "JPY",
+            "checked_at": "2026-10-23T11:38:23+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-e178cec15b7bd478ca092d4d",
+          "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
+          "store": "daily-store 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/daily-store/gr-e9g0aqeogf/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
+          "attributes": {
+            "retailer_sku": "gr-e9g0aqeogf"
+          },
+          "offer_ids": [
+            "O-f118f8e6ed4551821e587202",
+            "O-e178cec15b7bd478ca092d4d"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
+        "attributes": {
+          "retailer_sku": "gr-e9g0aqeogf"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "gr-e9g0aqeogf"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
+          "last_attempt_at": "2026-10-23T11:37:39.794713+00:00",
           "status": "attempted"
         }
       ]
