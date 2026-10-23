@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T05:15:37+00:00",
-  "product_count": 103,
+  "generated_at": "2026-10-23T05:57:21+00:00",
+  "product_count": 104,
   "category_counts": {
-    "ルアー": 7,
+    "ルアー": 8,
     "other": 36,
     "テーブル": 3,
     "camping": 50,
@@ -13,7 +13,7 @@
     "照明": 1
   },
   "status_counts": {
-    "IN_STOCK": 20,
+    "IN_STOCK": 21,
     "OUT_OF_STOCK": 3,
     "UNKNOWN": 80
   },
@@ -50463,6 +50463,89 @@
         "ミラージュピンク"
       ],
       "discovery": []
+    },
+    {
+      "product_id": "P-RK-1d47c17a361ab55204a863fa",
+      "category": "ルアー",
+      "category_id": "cat-4ffc72acf4f04c18da34",
+      "category_path": [
+        "ルアー"
+      ],
+      "category_group": "fishing",
+      "product": "メガバス シーバスルアー カゲロウ MD 98F GG アカキンスパークル [- / 型番 - / SKU 4513473515736]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-5e61d2fa7df39335860323da",
+          "variant_id": "V-RK-1d47c17a361ab55204a863fa",
+          "store": "casting 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/casting/4513473515736/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-23T05:56:50+00:00",
+          "last_attempt_at": "2026-10-23T05:56:50+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-23T05:56:50+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2398,
+            "currency": "JPY",
+            "checked_at": "2026-10-23T05:56:50+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-1d47c17a361ab55204a863fa",
+          "attributes": {
+            "retailer_sku": "4513473515736"
+          },
+          "offer_ids": [
+            "O-5e61d2fa7df39335860323da"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-1d47c17a361ab55204a863fa",
+        "attributes": {
+          "retailer_sku": "4513473515736"
+        }
+      },
+      "subcategory": "lures",
+      "search_keywords": [
+        "ルアー",
+        "lure",
+        "lures",
+        "カゲロウ",
+        "ミノー",
+        "釣具",
+        "釣り具",
+        "釣り",
+        "フィッシング",
+        "4513473515736"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-1d47c17a361ab55204a863fa",
+          "last_attempt_at": "2026-10-23T05:56:20.602971+00:00",
+          "status": "attempted"
+        }
+      ]
     }
   ]
 }
