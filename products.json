@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T11:15:45+00:00",
-  "product_count": 104,
+  "generated_at": "2026-10-23T11:27:50+00:00",
+  "product_count": 105,
   "category_counts": {
     "ルアー": 8,
     "other": 36,
@@ -10,10 +10,10 @@
     "椅子": 4,
     "テント": 1,
     "バスルアー": 1,
-    "照明": 1
+    "照明": 2
   },
   "status_counts": {
-    "IN_STOCK": 21,
+    "IN_STOCK": 22,
     "OUT_OF_STOCK": 3,
     "UNKNOWN": 80
   },
@@ -51283,6 +51283,83 @@
         {
           "variant_id": "V-RK-1d47c17a361ab55204a863fa",
           "last_attempt_at": "2026-10-23T05:56:20.602971+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-02a1afea19f18b6ef687f74c",
+      "category": "照明",
+      "category_id": "cat-098294eeccc238f7cd88",
+      "category_path": [
+        "照明"
+      ],
+      "category_group": "other",
+      "product": "ディーオーディー fave kinoko lamp DH2-009-RD キャンプ LEDランタン DOD [- / 選択してください / SKU 74118440060000000]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-ad41e549ad32b8f5d6e1fac4",
+          "variant_id": "V-RK-02a1afea19f18b6ef687f74c",
+          "store": "alpen 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/alpen/7411844006/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-23T11:27:19+00:00",
+          "last_attempt_at": "2026-10-23T11:27:19+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-23T11:27:19+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 4180,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 4180,
+            "currency": "JPY",
+            "checked_at": "2026-10-23T11:27:19+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-02a1afea19f18b6ef687f74c",
+          "attributes": {
+            "retailer_sku": "74118440060000000"
+          },
+          "offer_ids": [
+            "O-ad41e549ad32b8f5d6e1fac4"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-02a1afea19f18b6ef687f74c",
+        "attributes": {
+          "retailer_sku": "74118440060000000"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "照明",
+        "その他",
+        "74118440060000000"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-02a1afea19f18b6ef687f74c",
+          "last_attempt_at": "2026-10-23T11:26:47.645979+00:00",
           "status": "attempted"
         }
       ]
