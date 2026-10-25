@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T18:13:19+00:00",
+    "generated_at": "2026-10-25T18:27:29+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -17,6 +17,7 @@
       "https://item.rakuten.co.jp/casting/4513473559877/",
       "https://item.rakuten.co.jp/casting/4513473560170/",
       "https://item.rakuten.co.jp/casting/4582754516304/",
+      "https://item.rakuten.co.jp/daily-store/gr-e94hhhhwnv/",
       "https://item.rakuten.co.jp/daily-store/gr-e9g0aqeogf/",
       "https://item.rakuten.co.jp/desir-de-vivre/tc-07030200000/",
       "https://item.rakuten.co.jp/field-seven/4570090255162/",
@@ -155,6 +156,7 @@
     "https://item.rakuten.co.jp/casting/4513473559877/",
     "https://item.rakuten.co.jp/casting/4513473560170/",
     "https://item.rakuten.co.jp/casting/4582754516304/",
+    "https://item.rakuten.co.jp/daily-store/gr-e94hhhhwnv/",
     "https://item.rakuten.co.jp/daily-store/gr-e9g0aqeogf/",
     "https://item.rakuten.co.jp/desir-de-vivre/tc-07030200000/",
     "https://item.rakuten.co.jp/field-seven/4570090255162/",
@@ -276,7 +278,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-25T18:13:19+00:00",
+  "generated_at": "2026-10-25T18:27:29+00:00",
   "product_count": 110,
   "category_counts": {
     "ルアー": 9,
@@ -52452,7 +52454,7 @@
       "discovery": [
         {
           "variant_id": "V-RK-4109a466d3f2c71978347159",
-          "last_attempt_at": "2026-10-23T00:01:21.877338+00:00",
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
           "status": "partial"
         }
       ]
@@ -52825,7 +52827,13 @@
         "キャンプ用品",
         "r-sku00000012"
       ],
-      "discovery": []
+      "discovery": [
+        {
+          "variant_id": "V-RK-6fd20704bcd7cac84d4ec528",
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
+          "status": "attempted"
+        }
+      ]
     },
     {
       "product_id": "P-YH-5e8d6594bd25eca16a783f11",
@@ -53195,7 +53203,13 @@
         "ZEN Camps",
         "ゼンキャンプス"
       ],
-      "discovery": []
+      "discovery": [
+        {
+          "variant_id": "V-YH-5e8d6594bd25eca16a783f11",
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
+          "status": "attempted"
+        }
+      ]
     },
     {
       "product_id": "P-YH-07166875fcb32bfb55222a17",
@@ -53575,7 +53589,13 @@
         ]
       },
       "brand": "SUBU",
-      "discovery": []
+      "discovery": [
+        {
+          "variant_id": "V-YH-07166875fcb32bfb55222a17",
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
+          "status": "attempted"
+        }
+      ]
     },
     {
       "product_id": "P-YH-883ccae2618056807d854e6e",
@@ -54012,6 +54032,16 @@
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-3e177c599d6c980191eda406",
+          "variant_id": "V-RK-914ccbc63e2caf5ef1415650",
+          "store": "daily-store 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/daily-store/gr-e94hhhhwnv/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -54022,7 +54052,8 @@
             "color": "グリーン"
           },
           "offer_ids": [
-            "O-cab1c1aecb87c4ea370f5910"
+            "O-cab1c1aecb87c4ea370f5910",
+            "O-3e177c599d6c980191eda406"
           ],
           "sku": "DH1-020-GR-M",
           "status": "IN_STOCK"
@@ -54059,8 +54090,8 @@
       "discovery": [
         {
           "variant_id": "V-RK-914ccbc63e2caf5ef1415650",
-          "last_attempt_at": "2026-10-25T05:07:15.389756+00:00",
-          "status": "partial"
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
+          "status": "attempted"
         }
       ]
     },
@@ -54434,8 +54465,8 @@
       "discovery": [
         {
           "variant_id": "V-RK-449fb64b5d976790096397c8",
-          "last_attempt_at": "2026-10-24T16:07:22.353626+00:00",
-          "status": "partial"
+          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
+          "status": "attempted"
         }
       ]
     },
