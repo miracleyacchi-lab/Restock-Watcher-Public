@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T14:11:14+00:00",
-  "product_count": 109,
+  "generated_at": "2026-10-25T14:38:45+00:00",
+  "product_count": 110,
   "category_counts": {
-    "ルアー": 8,
+    "ルアー": 9,
     "other": 52,
     "テーブル": 6,
     "椅子": 5,
@@ -25,7 +25,7 @@
   "status_counts": {
     "IN_STOCK": 15,
     "OUT_OF_STOCK": 3,
-    "UNKNOWN": 91
+    "UNKNOWN": 92
   },
   "seller_search_counts": {
     "waiting_products": 1,
@@ -7247,6 +7247,37 @@
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-4bab7cbe86795cfe119936fd",
+          "variant_id": "V-F04-001",
+          "store": "r-bunbun 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/r-bunbun/4513473559877/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T14:38:08+00:00",
+          "last_attempt_at": "2026-10-25T14:38:08+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T14:38:08+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2398,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T14:38:08+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -7261,7 +7292,8 @@
             "O-50fe5c2ab99158f40ee666f5",
             "O-18fb0513b1059f6afa8f9e53",
             "O-13fe674ab2dd20b0930f26ae",
-            "O-dc0882bcd9a34c70742e89d2"
+            "O-dc0882bcd9a34c70742e89d2",
+            "O-4bab7cbe86795cfe119936fd"
           ],
           "barcode": "4513473559877",
           "display_attributes": {
@@ -7319,7 +7351,7 @@
       "discovery": [
         {
           "variant_id": "V-F04-001",
-          "last_attempt_at": "2026-10-25T05:07:15.389756+00:00",
+          "last_attempt_at": "2026-10-25T14:36:09.652884+00:00",
           "status": "partial"
         }
       ]
@@ -67845,6 +67877,68 @@
           "variant_id": "V-JAN-4571697238978",
           "last_attempt_at": "2026-10-25T09:46:18.447982+00:00",
           "status": "partial"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-6572add9495428bc1bb8676b",
+      "category": "ルアー",
+      "category_id": "cat-4ffc72acf4f04c18da34",
+      "category_path": [
+        "ルアー"
+      ],
+      "category_group": "fishing",
+      "product": "【抽選で最大10万ポイント】 メガバス カゲロウ 124F GGアカキンボラCH (ソルトルアー 海釣り) ゆうパケット可 [SKU 4513473559839 / SKU 4513473559839]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-53f479db32649190fc51ec74",
+          "variant_id": "V-RK-6572add9495428bc1bb8676b",
+          "store": "fishing-you 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/fishing-you/4513473559839/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-6572add9495428bc1bb8676b",
+          "attributes": {
+            "retailer_sku": "4513473559839"
+          },
+          "offer_ids": [
+            "O-53f479db32649190fc51ec74"
+          ],
+          "status": "UNKNOWN"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-6572add9495428bc1bb8676b",
+        "attributes": {
+          "retailer_sku": "4513473559839"
+        }
+      },
+      "subcategory": "lures",
+      "search_keywords": [
+        "ルアー",
+        "lure",
+        "lures",
+        "カゲロウ",
+        "ミノー",
+        "釣具",
+        "釣り具",
+        "釣り",
+        "フィッシング",
+        "4513473559839"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-6572add9495428bc1bb8676b",
+          "last_attempt_at": "2026-10-25T14:36:09.652884+00:00",
+          "status": "attempted"
         }
       ]
     },
