@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T04:13:37+00:00",
-  "product_count": 106,
+  "generated_at": "2026-10-25T04:43:22+00:00",
+  "product_count": 107,
   "category_counts": {
     "ルアー": 8,
     "other": 52,
-    "テーブル": 5,
+    "テーブル": 6,
     "椅子": 5,
     "テント": 5,
     "焚火台": 1,
@@ -21,7 +21,7 @@
     "バスルアー": 1
   },
   "status_counts": {
-    "IN_STOCK": 22,
+    "IN_STOCK": 23,
     "OUT_OF_STOCK": 3,
     "UNKNOWN": 81
   },
@@ -67085,6 +67085,94 @@
         {
           "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
           "last_attempt_at": "2026-10-23T11:37:39.794713+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-141afb6babbdaa0080d122d9",
+      "category": "テーブル",
+      "category_id": "cat-0fac3ba703c833bc320b",
+      "category_path": [
+        "テーブル"
+      ],
+      "category_group": "other",
+      "product": "DOD(ディーオーディー) マジカルテーブル ブラウン TB2-264-BR [ブラウン / 型番 TB2-264-BR / SKU 4051369]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-a0f81af81a4bb0a71b2a7f79",
+          "variant_id": "V-RK-141afb6babbdaa0080d122d9",
+          "store": "naturum 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/naturum/4051369/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T04:42:46+00:00",
+          "last_attempt_at": "2026-10-25T04:42:46+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T04:42:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 9326,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 9326,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T04:42:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-3e52444339bb4605f7696547",
+          "variant_id": "V-RK-141afb6babbdaa0080d122d9",
+          "store": "naturum-outdoor 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/naturum-outdoor/4051369/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-141afb6babbdaa0080d122d9",
+          "attributes": {
+            "retailer_sku": "4051369"
+          },
+          "offer_ids": [
+            "O-a0f81af81a4bb0a71b2a7f79",
+            "O-3e52444339bb4605f7696547"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-141afb6babbdaa0080d122d9",
+        "attributes": {
+          "retailer_sku": "4051369"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "テーブル",
+        "その他",
+        "4051369"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-141afb6babbdaa0080d122d9",
+          "last_attempt_at": "2026-10-25T04:41:47.794979+00:00",
           "status": "attempted"
         }
       ]
