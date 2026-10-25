@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T09:11:25+00:00",
-  "product_count": 107,
+  "generated_at": "2026-10-25T09:49:25+00:00",
+  "product_count": 109,
   "category_counts": {
     "ルアー": 8,
     "other": 52,
-    "テーブル": 6,
+    "テーブル": 7,
     "椅子": 5,
     "テント": 5,
     "焚火台": 1,
@@ -18,12 +18,13 @@
     "TENT": 8,
     "GEAR": 1,
     "照明": 5,
-    "バスルアー": 1
+    "バスルアー": 1,
+    "ライフスタイル": 1
   },
   "status_counts": {
     "IN_STOCK": 15,
-    "OUT_OF_STOCK": 3,
-    "UNKNOWN": 89
+    "OUT_OF_STOCK": 4,
+    "UNKNOWN": 90
   },
   "products": [
     {
@@ -68545,6 +68546,159 @@
           "variant_id": "V-RK-141afb6babbdaa0080d122d9",
           "last_attempt_at": "2026-10-25T04:41:47.794979+00:00",
           "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-JAN-4571697238978",
+      "category": "テーブル",
+      "category_id": "cat-0fac3ba703c833bc320b",
+      "category_path": [
+        "テーブル"
+      ],
+      "category_group": "other",
+      "product": "マジカルテーブル ブラウン",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-f3ef4efb505134ab64679905",
+          "variant_id": "V-JAN-4571697238978",
+          "store": "DOD STORE",
+          "status": "UNKNOWN",
+          "url": "https://store.dod.camp/c/item/tb2_264",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "official"
+        },
+        {
+          "offer_id": "O-1bf4cd3debf3f7e26c1b05b8",
+          "variant_id": "V-JAN-4571697238978",
+          "store": "veryfast Yahoo!店",
+          "status": "UNKNOWN",
+          "url": "https://store.shopping.yahoo.co.jp/veryfast/bs-1579.html",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "Yahoo!ショッピング"
+        },
+        {
+          "offer_id": "O-94e9eaee915977495812f8f6",
+          "variant_id": "V-JAN-4571697238978",
+          "store": "naturum 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/naturum/4051369/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-JAN-4571697238978",
+          "attributes": {},
+          "offer_ids": [
+            "O-f3ef4efb505134ab64679905",
+            "O-1bf4cd3debf3f7e26c1b05b8",
+            "O-94e9eaee915977495812f8f6"
+          ],
+          "barcode": "4571697238978",
+          "status": "UNKNOWN"
+        }
+      ],
+      "brand": "DOD",
+      "barcode": "4571697238978",
+      "variant": {
+        "variant_id": "V-JAN-4571697238978",
+        "attributes": {}
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "テーブル",
+        "その他",
+        "DOD",
+        "4571697238978"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-JAN-4571697238978",
+          "last_attempt_at": "2026-10-25T09:46:18.447982+00:00",
+          "status": "partial"
+        }
+      ]
+    },
+    {
+      "product_id": "P-JAN-4589946149975",
+      "category": "ライフスタイル",
+      "category_id": "cat-0cf294ad72086eb4f4fc",
+      "category_path": [
+        "DODストア",
+        "全製品",
+        "ライフスタイル"
+      ],
+      "category_group": "other",
+      "product": "fave stuffed toy IV Mサイズ",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-0626f009eda7b498fe915f14",
+          "variant_id": "V-JAN-4589946149975",
+          "store": "DOD STORE",
+          "status": "OUT_OF_STOCK",
+          "url": "https://store.dod.camp/c/item/dh6_001_iv",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T09:49:09+00:00",
+          "last_attempt_at": "2026-10-25T09:49:09+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T09:49:09+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            }
+          ],
+          "marketplace": "official"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-JAN-4589946149975",
+          "attributes": {
+            "color": "アイボリー"
+          },
+          "offer_ids": [
+            "O-0626f009eda7b498fe915f14"
+          ],
+          "barcode": "4589946149975",
+          "status": "OUT_OF_STOCK"
+        }
+      ],
+      "brand": "DOD",
+      "barcode": "4589946149975",
+      "variant": {
+        "variant_id": "V-JAN-4589946149975",
+        "attributes": {
+          "color": "アイボリー"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "DODストア",
+        "全製品",
+        "ライフスタイル",
+        "その他",
+        "DOD",
+        "4589946149975",
+        "アイボリー"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-JAN-4589946149975",
+          "last_attempt_at": "2026-10-25T09:46:18.447982+00:00",
+          "status": "partial"
         }
       ]
     }
