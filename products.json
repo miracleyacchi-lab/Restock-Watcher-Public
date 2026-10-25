@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T18:27:29+00:00",
+    "generated_at": "2026-10-25T18:32:21+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -11,6 +11,7 @@
       "https://item.rakuten.co.jp/articlestore/8260920184/",
       "https://item.rakuten.co.jp/banjos/10003267/",
       "https://item.rakuten.co.jp/camp-link/cl-4580702320935/",
+      "https://item.rakuten.co.jp/camp-link/cl-4580702321819/",
       "https://item.rakuten.co.jp/casting/4513473212864/",
       "https://item.rakuten.co.jp/casting/4513473515262/",
       "https://item.rakuten.co.jp/casting/4513473515736/",
@@ -52,6 +53,7 @@
       "https://item.rakuten.co.jp/lapert/4580702321390/",
       "https://item.rakuten.co.jp/lapert/4580702321413/",
       "https://item.rakuten.co.jp/lapert/4580702321659/",
+      "https://item.rakuten.co.jp/lapert/4580702321819/",
       "https://item.rakuten.co.jp/mastak-i/4513473212864/",
       "https://item.rakuten.co.jp/mobileshop1/4580564020318/",
       "https://item.rakuten.co.jp/murauchi-dvd/4589945510639/",
@@ -150,6 +152,7 @@
     "https://item.rakuten.co.jp/articlestore/8260920184/",
     "https://item.rakuten.co.jp/banjos/10003267/",
     "https://item.rakuten.co.jp/camp-link/cl-4580702320935/",
+    "https://item.rakuten.co.jp/camp-link/cl-4580702321819/",
     "https://item.rakuten.co.jp/casting/4513473212864/",
     "https://item.rakuten.co.jp/casting/4513473515262/",
     "https://item.rakuten.co.jp/casting/4513473515736/",
@@ -191,6 +194,7 @@
     "https://item.rakuten.co.jp/lapert/4580702321390/",
     "https://item.rakuten.co.jp/lapert/4580702321413/",
     "https://item.rakuten.co.jp/lapert/4580702321659/",
+    "https://item.rakuten.co.jp/lapert/4580702321819/",
     "https://item.rakuten.co.jp/mastak-i/4513473212864/",
     "https://item.rakuten.co.jp/mobileshop1/4580564020318/",
     "https://item.rakuten.co.jp/murauchi-dvd/4589945510639/",
@@ -278,7 +282,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-25T18:27:29+00:00",
+  "generated_at": "2026-10-25T18:32:21+00:00",
   "product_count": 110,
   "category_counts": {
     "ルアー": 9,
@@ -16242,6 +16246,36 @@
             }
           ],
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-6fe45e0631be1a8cb80214d3",
+          "variant_id": "V-C01-001",
+          "store": "ラペルト",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/lapert/4580702321819/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-1489827084b782158116900e",
+          "variant_id": "V-C01-001",
+          "store": "camp-link 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/camp-link/cl-4580702321819/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-13bda23d75ff0580205d3a9e",
+          "variant_id": "V-C01-001",
+          "store": "westwebstore 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/westwebstore/k-831976/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -16252,7 +16286,10 @@
             "C01-official",
             "C01-yahoo-west",
             "C01-yahoo-efim",
-            "O-345b07ee710179fe24a98a3c"
+            "O-345b07ee710179fe24a98a3c",
+            "O-6fe45e0631be1a8cb80214d3",
+            "O-1489827084b782158116900e",
+            "O-13bda23d75ff0580205d3a9e"
           ],
           "barcode": "4580702321819",
           "sku": "TC-07040200000",
@@ -16283,7 +16320,7 @@
       "discovery": [
         {
           "variant_id": "V-C01-001",
-          "last_attempt_at": "2026-10-22T00:07:22.716659+00:00",
+          "last_attempt_at": "2026-10-25T18:31:09.592199+00:00",
           "status": "partial"
         }
       ]
@@ -52454,8 +52491,8 @@
       "discovery": [
         {
           "variant_id": "V-RK-4109a466d3f2c71978347159",
-          "last_attempt_at": "2026-10-25T18:26:12.193010+00:00",
-          "status": "partial"
+          "last_attempt_at": "2026-10-25T18:31:09.592199+00:00",
+          "status": "attempted"
         }
       ]
     },
