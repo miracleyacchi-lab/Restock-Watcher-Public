@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T18:42:22+00:00",
+    "generated_at": "2026-10-25T18:48:16+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -14,6 +14,7 @@
       "https://item.rakuten.co.jp/camp-link/cl-4580702320935/",
       "https://item.rakuten.co.jp/camp-link/cl-4580702321819/",
       "https://item.rakuten.co.jp/casting/4513473212864/",
+      "https://item.rakuten.co.jp/casting/4513473448324/",
       "https://item.rakuten.co.jp/casting/4513473515262/",
       "https://item.rakuten.co.jp/casting/4513473515736/",
       "https://item.rakuten.co.jp/casting/4513473559877/",
@@ -157,6 +158,7 @@
     "https://item.rakuten.co.jp/camp-link/cl-4580702320935/",
     "https://item.rakuten.co.jp/camp-link/cl-4580702321819/",
     "https://item.rakuten.co.jp/casting/4513473212864/",
+    "https://item.rakuten.co.jp/casting/4513473448324/",
     "https://item.rakuten.co.jp/casting/4513473515262/",
     "https://item.rakuten.co.jp/casting/4513473515736/",
     "https://item.rakuten.co.jp/casting/4513473559877/",
@@ -286,7 +288,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-25T18:42:22+00:00",
+  "generated_at": "2026-10-25T18:48:16+00:00",
   "product_count": 110,
   "category_counts": {
     "ルアー": 9,
@@ -3439,6 +3441,26 @@
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-52bd22b23b3103bab47e3c05",
+          "variant_id": "V-F02-001",
+          "store": "casting 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/casting/4513473448324/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-e5c4351f04a741b52c2bb95a",
+          "variant_id": "V-F02-001",
+          "store": "marunishi 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/marunishi/mb-kagerou124f/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -3451,7 +3473,9 @@
             "O-05167cabef85f417ef093d66",
             "O-da7db3f4ee11a1d03eb19d93",
             "O-7a5a753f2c1f3263da9b41e8",
-            "O-986677514f807dab3caeaf5f"
+            "O-986677514f807dab3caeaf5f",
+            "O-52bd22b23b3103bab47e3c05",
+            "O-e5c4351f04a741b52c2bb95a"
           ],
           "barcode": "4513473448324",
           "display_attributes": {
@@ -3508,7 +3532,7 @@
       "discovery": [
         {
           "variant_id": "V-F02-001",
-          "last_attempt_at": "2026-10-25T18:41:09.493515+00:00",
+          "last_attempt_at": "2026-10-25T18:46:09.500497+00:00",
           "status": "partial"
         }
       ]
@@ -16297,10 +16321,31 @@
           "offer_id": "O-13bda23d75ff0580205d3a9e",
           "variant_id": "V-C01-001",
           "store": "westwebstore 楽天市場店",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/westwebstore/k-831976/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T18:47:42+00:00",
+          "last_attempt_at": "2026-10-25T18:47:42+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T18:47:42+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 9900,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 9900,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T18:47:42+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "楽天市場"
         }
       ],
