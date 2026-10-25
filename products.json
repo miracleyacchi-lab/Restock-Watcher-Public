@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T09:49:25+00:00",
+  "generated_at": "2026-10-25T09:50:17+00:00",
   "product_count": 109,
   "category_counts": {
     "ルアー": 8,
     "other": 52,
-    "テーブル": 7,
+    "テーブル": 6,
     "椅子": 5,
     "テント": 5,
     "焚火台": 1,
@@ -19,6 +19,7 @@
     "GEAR": 1,
     "照明": 5,
     "バスルアー": 1,
+    "ダイニングテーブル": 1,
     "ライフスタイル": 1
   },
   "status_counts": {
@@ -68551,10 +68552,13 @@
     },
     {
       "product_id": "P-JAN-4571697238978",
-      "category": "テーブル",
-      "category_id": "cat-0fac3ba703c833bc320b",
+      "category": "ダイニングテーブル",
+      "category_id": "cat-4f63c60fae80d2b0a46e",
       "category_path": [
-        "テーブル"
+        "DODストア",
+        "全製品",
+        "テーブル",
+        "ダイニングテーブル"
       ],
       "category_group": "other",
       "product": "マジカルテーブル ブラウン",
@@ -68565,10 +68569,20 @@
           "offer_id": "O-f3ef4efb505134ab64679905",
           "variant_id": "V-JAN-4571697238978",
           "store": "DOD STORE",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://store.dod.camp/c/item/tb2_264",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T09:50:01+00:00",
+          "last_attempt_at": "2026-10-25T09:50:01+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T09:50:01+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            }
+          ],
           "marketplace": "official"
         },
         {
@@ -68614,7 +68628,10 @@
       "subcategory": "other",
       "search_keywords": [
         "その他・未分類",
+        "DODストア",
+        "全製品",
         "テーブル",
+        "ダイニングテーブル",
         "その他",
         "DOD",
         "4571697238978"
