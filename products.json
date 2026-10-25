@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T19:24:03+00:00",
+    "generated_at": "2026-10-25T19:29:04+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -288,7 +288,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-25T19:24:03+00:00",
+  "generated_at": "2026-10-25T19:29:04+00:00",
   "product_count": 110,
   "category_counts": {
     "ルアー": 9,
@@ -14994,6 +14994,99 @@
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-8a495535b088310fa794ed21",
+          "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
+          "store": "aquabeach 楽天市場店",
+          "status": "OUT_OF_STOCK",
+          "url": "https://item.rakuten.co.jp/aquabeach/blowin125f/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T19:27:47+00:00",
+          "last_attempt_at": "2026-10-25T19:27:47+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T19:27:47+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2289,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2289,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T19:27:47+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-e8e658309b5dc914e2e1f6ee",
+          "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
+          "store": "hikoboshi-fishing 楽天市場店",
+          "status": "OUT_OF_STOCK",
+          "url": "https://item.rakuten.co.jp/hikoboshi-fishing/hf-mej-aa-e-00241/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T19:27:47+00:00",
+          "last_attempt_at": "2026-10-25T19:27:47+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T19:27:47+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2112,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2112,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T19:27:47+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-fecc643cbb243953f38973c0",
+          "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
+          "store": "kintaroutsurigu 楽天市場店",
+          "status": "OUT_OF_STOCK",
+          "url": "https://item.rakuten.co.jp/kintaroutsurigu/04-05-4589945518208/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-25T19:27:47+00:00",
+          "last_attempt_at": "2026-10-25T19:27:47+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-25T19:27:47+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2310,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2310,
+            "currency": "JPY",
+            "checked_at": "2026-10-25T19:27:47+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -15180,7 +15273,10 @@
             "color": "＃35イブランリバース"
           },
           "offer_ids": [
-            "O-b0309efefd1a55869cb1c3f3"
+            "O-b0309efefd1a55869cb1c3f3",
+            "O-8a495535b088310fa794ed21",
+            "O-e8e658309b5dc914e2e1f6ee",
+            "O-fecc643cbb243953f38973c0"
           ],
           "barcode": "4589945518208",
           "status": "OUT_OF_STOCK"
@@ -15260,8 +15356,8 @@
         },
         {
           "variant_id": "V-RKF-1f70e3dd878bbdf0cafadb8d",
-          "last_attempt_at": "2026-10-25T19:21:10.956004+00:00",
-          "status": "partial"
+          "last_attempt_at": "2026-10-25T19:26:09.752710+00:00",
+          "status": "attempted"
         },
         {
           "variant_id": "V-RKF-15c21283553e2c16fc2b511d",
@@ -15272,6 +15368,11 @@
           "variant_id": "V-RKF-0adacf4a8b3fc3037317671e",
           "last_attempt_at": "2026-10-25T19:16:10.445102+00:00",
           "status": "attempted"
+        },
+        {
+          "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
+          "last_attempt_at": "2026-10-25T19:26:09.752710+00:00",
+          "status": "partial"
         },
         {
           "variant_id": "V-RKF-05287a8d5a576196daa349f5",
