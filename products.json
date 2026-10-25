@@ -1,10 +1,11 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T18:32:21+00:00",
+    "generated_at": "2026-10-25T18:37:29+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
+      "https://item.rakuten.co.jp/angle/4513473448416/",
       "https://item.rakuten.co.jp/angle/4513473503832/",
       "https://item.rakuten.co.jp/angle/4513473515262/",
       "https://item.rakuten.co.jp/angle/4513473560170/",
@@ -80,6 +81,7 @@
       "https://item.rakuten.co.jp/snb-shop/1165-0034/",
       "https://item.rakuten.co.jp/t-palshop/4513473488993/",
       "https://item.rakuten.co.jp/tsuribitokan-masuda/4513473448324/",
+      "https://item.rakuten.co.jp/tsuribitokan-masuda/4513473448416/",
       "https://item.rakuten.co.jp/tsuribitokan-masuda/4582754510456/",
       "https://item.rakuten.co.jp/tsurigu-tobinuke/090224603/",
       "https://item.rakuten.co.jp/turikichiparadaisu/kage124_10/",
@@ -146,6 +148,7 @@
   "search_exclusions": [
     "https://item.rakuten.co.jp/angle/4513473212864/",
     "https://item.rakuten.co.jp/angle/4513473448324/",
+    "https://item.rakuten.co.jp/angle/4513473448416/",
     "https://item.rakuten.co.jp/angle/4513473503832/",
     "https://item.rakuten.co.jp/angle/4513473515262/",
     "https://item.rakuten.co.jp/angle/4513473560170/",
@@ -221,6 +224,7 @@
     "https://item.rakuten.co.jp/snb-shop/1165-0034/",
     "https://item.rakuten.co.jp/t-palshop/4513473488993/",
     "https://item.rakuten.co.jp/tsuribitokan-masuda/4513473448324/",
+    "https://item.rakuten.co.jp/tsuribitokan-masuda/4513473448416/",
     "https://item.rakuten.co.jp/tsuribitokan-masuda/4582754510456/",
     "https://item.rakuten.co.jp/tsurigu-tobinuke/090224603/",
     "https://item.rakuten.co.jp/turikichiparadaisu/kage124_10/",
@@ -282,7 +286,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-25T18:32:21+00:00",
+  "generated_at": "2026-10-25T18:37:29+00:00",
   "product_count": 110,
   "category_counts": {
     "ルアー": 9,
@@ -1672,6 +1676,26 @@
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-7a8876f50b874aff27ad17f3",
+          "variant_id": "V-F01-001",
+          "store": "tsuribitokan-masuda 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/tsuribitokan-masuda/4513473448416/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-b6a8d0d98887c9e340da18a3",
+          "variant_id": "V-F01-001",
+          "store": "angle 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/angle/4513473448416/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -1683,7 +1707,9 @@
             "O-01a480964b157fb1ac702d75",
             "O-c0ce41b7be71d6aac0dad1ba",
             "O-a03fc33a8b8ee7a5df9866c6",
-            "O-85af1828b54a1c072cd20ad4"
+            "O-85af1828b54a1c072cd20ad4",
+            "O-7a8876f50b874aff27ad17f3",
+            "O-b6a8d0d98887c9e340da18a3"
           ],
           "barcode": "4513473448416",
           "display_attributes": {
@@ -1740,7 +1766,7 @@
       "discovery": [
         {
           "variant_id": "V-F01-001",
-          "last_attempt_at": "2026-10-24T00:07:17.157536+00:00",
+          "last_attempt_at": "2026-10-25T18:36:10.495560+00:00",
           "status": "partial"
         }
       ]
@@ -19880,7 +19906,13 @@
           "C10"
         ]
       },
-      "discovery": []
+      "discovery": [
+        {
+          "variant_id": "V-C10-001",
+          "last_attempt_at": "2026-10-25T18:36:10.495560+00:00",
+          "status": "attempted"
+        }
+      ]
     },
     {
       "product_id": "C11",
