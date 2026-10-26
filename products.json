@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-26T15:43:23+00:00",
+    "generated_at": "2026-10-26T15:44:59+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -330,7 +330,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-26T15:43:23+00:00",
+  "generated_at": "2026-10-26T15:44:59+00:00",
   "product_count": 112,
   "category_counts": {
     "ルアー": 9,
@@ -72576,30 +72576,93 @@
           "offer_id": "O-7c0c3503f65a72eb7fbc4701",
           "variant_id": "V-JAN-4571697238800",
           "store": "aprice Yahoo!店",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/aprice/4571697238800.html",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-26T15:43:59+00:00",
+          "last_attempt_at": "2026-10-26T15:43:59+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-26T15:43:59+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3630,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 3630,
+            "currency": "JPY",
+            "checked_at": "2026-10-26T15:43:59+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "Yahoo!ショッピング"
         },
         {
           "offer_id": "O-bd52930dfa1fdb5ac8b31454",
           "variant_id": "V-JAN-4571697238800",
           "store": "a-price 楽天市場店",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/a-price/4571697238800/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-26T15:43:59+00:00",
+          "last_attempt_at": "2026-10-26T15:43:59+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-26T15:43:59+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3630,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 3630,
+            "currency": "JPY",
+            "checked_at": "2026-10-26T15:43:59+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "楽天市場"
         },
         {
           "offer_id": "O-4c056db9c862915b785c64c3",
           "variant_id": "V-JAN-4571697238800",
           "store": "naturum 楽天市場店",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/naturum/4037737/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-26T15:43:59+00:00",
+          "last_attempt_at": "2026-10-26T15:43:59+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-26T15:43:59+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3300,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 3300,
+            "currency": "JPY",
+            "checked_at": "2026-10-26T15:43:59+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "楽天市場"
         },
         {
