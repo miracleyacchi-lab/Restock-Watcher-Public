@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-10-26T15:50:32+00:00",
+    "generated_at": "2026-10-26T15:56:56+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/angle/4513473212864/",
       "https://item.rakuten.co.jp/angle/4513473448324/",
@@ -330,7 +330,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-10-26T15:50:32+00:00",
+  "generated_at": "2026-10-26T15:56:56+00:00",
   "product_count": 112,
   "category_counts": {
     "ルアー": 9,
@@ -72474,10 +72474,31 @@
           "offer_id": "O-94fddb7fd225e147f989698b",
           "variant_id": "V-JAN-4571697238817",
           "store": "honeyworld 楽天市場店",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/honeyworld/20260703074348_239/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": null,
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-10-26T15:56:19+00:00",
+          "last_attempt_at": "2026-10-26T15:56:19+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-10-26T15:56:19+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 4059,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 4059,
+            "currency": "JPY",
+            "checked_at": "2026-10-26T15:56:19+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "楽天市場"
         }
       ],
