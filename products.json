@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-06T13:08:53+00:00",
+    "generated_at": "2026-11-06T13:53:42+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -107,6 +107,7 @@
       "https://item.rakuten.co.jp/happiness-mart/20260814001946_237/",
       "https://item.rakuten.co.jp/happynight/gr-e9g0aqeogf/",
       "https://item.rakuten.co.jp/happynight/gr-e9tekwusge/",
+      "https://item.rakuten.co.jp/himaraya/0000000889121/",
       "https://item.rakuten.co.jp/himaraya/0000000972645/",
       "https://item.rakuten.co.jp/hobis/4513473503832/",
       "https://item.rakuten.co.jp/hobis/4580510964611/",
@@ -452,6 +453,7 @@
     "https://item.rakuten.co.jp/happiness-mart/20260814001946_237/",
     "https://item.rakuten.co.jp/happynight/gr-e9g0aqeogf/",
     "https://item.rakuten.co.jp/happynight/gr-e9tekwusge/",
+    "https://item.rakuten.co.jp/himaraya/0000000889121/",
     "https://item.rakuten.co.jp/himaraya/0000000972645/",
     "https://item.rakuten.co.jp/hobis/4513473503832/",
     "https://item.rakuten.co.jp/hobis/4580510964611/",
@@ -690,7 +692,7 @@
     "https://store.shopping.yahoo.co.jp/yfto/4513473212864.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-06T13:08:53+00:00",
+  "generated_at": "2026-11-06T13:53:42+00:00",
   "product_count": 114,
   "category_counts": {
     "ルアー": 9,
@@ -713,8 +715,8 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 18,
-    "UNKNOWN": 94,
+    "IN_STOCK": 19,
+    "UNKNOWN": 93,
     "OUT_OF_STOCK": 2
   },
   "seller_search_counts": {
@@ -35153,6 +35155,68 @@
             }
           ],
           "marketplace": "Yahoo!ショッピング"
+        },
+        {
+          "offer_id": "O-16d6a68d33a8de1f2dfe9245",
+          "variant_id": "V-C16-001",
+          "store": "alpen 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/alpen/7315290619/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-06T13:52:50+00:00",
+          "last_attempt_at": "2026-11-06T13:52:50+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-06T13:52:50+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 27720,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 27720,
+            "currency": "JPY",
+            "checked_at": "2026-11-06T13:52:50+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-c51e81b449f2323155d7ab26",
+          "variant_id": "V-C16-001",
+          "store": "himaraya 楽天市場店",
+          "status": "OUT_OF_STOCK",
+          "url": "https://item.rakuten.co.jp/himaraya/0000000889121/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-06T13:52:50+00:00",
+          "last_attempt_at": "2026-11-06T13:52:50+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-06T13:52:50+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 26260,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 26260,
+            "currency": "JPY",
+            "checked_at": "2026-11-06T13:52:50+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -35162,11 +35226,13 @@
           "offer_ids": [
             "C16-official",
             "C16-rakuten-m-outdoor",
-            "C16-yahoo-snowpeak"
+            "C16-yahoo-snowpeak",
+            "O-16d6a68d33a8de1f2dfe9245",
+            "O-c51e81b449f2323155d7ab26"
           ],
           "barcode": "4960589014446",
           "sku": "LV-086",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "Snow Peak",
@@ -35190,7 +35256,13 @@
         "LV-086",
         "4960589014446"
       ],
-      "discovery": []
+      "discovery": [
+        {
+          "variant_id": "V-C16-001",
+          "last_attempt_at": "2026-11-06T13:51:12.576087+00:00",
+          "status": "partial"
+        }
+      ]
     },
     {
       "product_id": "C17",
