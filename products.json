@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-07T04:08:37+00:00",
+    "generated_at": "2026-11-07T05:08:52+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -720,7 +720,7 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-07T04:08:37+00:00",
+  "generated_at": "2026-11-07T05:08:52+00:00",
   "product_count": 114,
   "category_counts": {
     "ルアー": 9,
@@ -743,8 +743,8 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 19,
-    "UNKNOWN": 93,
+    "IN_STOCK": 18,
+    "UNKNOWN": 94,
     "OUT_OF_STOCK": 2
   },
   "seller_search_counts": {
@@ -763,7 +763,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "observations": 973,
+      "observations": 974,
       "restock_events": 2,
       "offers": [
         {
@@ -1410,11 +1410,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/fto-r/4513473448416/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T02:02:53+00:00",
-          "last_attempt_at": "2026-11-07T02:02:53+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T02:02:53+00:00",
               "status": "IN_STOCK",
@@ -1704,22 +1714,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-07T02:02:53+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -3092,7 +3092,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 981,
+      "observations": 982,
       "restock_events": 23,
       "offers": [
         {
@@ -3415,14 +3415,19 @@
           "offer_id": "O-f2f40b2e76d766ab73215be1",
           "variant_id": "V-F02-001",
           "store": "angle 楽天市場店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/angle/4513473448324/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "IN_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "ERROR",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "ERROR",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -3712,16 +3717,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -3739,11 +3734,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -4033,22 +4038,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -4060,11 +4055,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/hikoboshi-fishing/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T02:02:53+00:00",
-          "last_attempt_at": "2026-11-07T02:02:53+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T02:02:53+00:00",
               "status": "OUT_OF_STOCK",
@@ -4354,22 +4359,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-07T02:02:53+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -5675,7 +5670,7 @@
             "weight": "22g",
             "size": "124F"
           },
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "barcode": "4513473448324",
@@ -5738,7 +5733,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 961,
+      "observations": 962,
       "restock_events": 5,
       "offers": [
         {
@@ -6064,11 +6059,21 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/toysmkt/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2723,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -6351,16 +6356,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2723,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true,
               "price": {
@@ -6373,7 +6368,7 @@
           "price": {
             "amount": 2723,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -6385,11 +6380,21 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/y-bunbun/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -6679,22 +6684,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -6706,11 +6701,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/casting/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -7000,22 +7005,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -7027,11 +7022,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/casting/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -7316,22 +7321,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -7343,11 +7338,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/angle/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -7637,22 +7642,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -8062,7 +8057,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 983,
+      "observations": 984,
       "restock_events": 8,
       "offers": [
         {
@@ -9030,11 +9025,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/hanamaruhonp01/20261021042716_244/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2953,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -9324,22 +9329,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2917,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2953,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11039,7 +11034,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim",
-      "observations": 973,
+      "observations": 974,
       "restock_events": 5,
       "offers": [
         {
@@ -11215,10 +11210,15 @@
           "url": "https://item.rakuten.co.jp/mycof/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-25T22:07:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "UNKNOWN",
@@ -11363,11 +11363,6 @@
               "checked_at": "2026-11-02T18:02:44+00:00",
               "status": "UNKNOWN",
               "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "UNKNOWN",
-              "stock_reliable": false
             }
           ],
           "marketplace": "楽天市場"
@@ -11376,14 +11371,19 @@
           "offer_id": "O-2b1b1b091cc1b8040d52d29d",
           "variant_id": "V-F05-001",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -11666,16 +11666,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -11697,14 +11687,19 @@
           "offer_id": "O-5b696ed1b8f9103e9ec425eb",
           "variant_id": "V-RKF-66973202a6e1664e5a8db897",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -11994,16 +11989,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -12018,14 +12003,19 @@
           "offer_id": "O-8f801acb6d07084352a9498d",
           "variant_id": "V-RKF-5fc1ae140d07fe1e4d2f17e9",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -12310,16 +12300,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -12334,14 +12314,19 @@
           "offer_id": "O-d37d77f7bcbc8de700f303b4",
           "variant_id": "V-RKF-f084e5598282b669bd1049a4",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -12631,16 +12616,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -12655,14 +12630,19 @@
           "offer_id": "O-bef042484c49bb6818a33567",
           "variant_id": "V-RKF-1f70e3dd878bbdf0cafadb8d",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -12952,16 +12932,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -12976,14 +12946,19 @@
           "offer_id": "O-9dc4a642589603004dc0fe3e",
           "variant_id": "V-RKF-e35f69cde2d89b0d1d02b8c6",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -13273,16 +13248,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -13297,14 +13262,19 @@
           "offer_id": "O-ad7656dea2e95e35b4f56ca2",
           "variant_id": "V-RKF-abd8b1a41f3f8583fc4840b9",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -13587,16 +13557,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -13618,14 +13578,19 @@
           "offer_id": "O-fa40c6f4e1bfb9e4e45e390f",
           "variant_id": "V-RKF-15c21283553e2c16fc2b511d",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -13915,16 +13880,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -13939,14 +13894,19 @@
           "offer_id": "O-faeb804afb3b078500bf36e6",
           "variant_id": "V-RKF-0adacf4a8b3fc3037317671e",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -14236,16 +14196,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -14260,14 +14210,19 @@
           "offer_id": "O-1ba48b63b0ada26b7be4b3f3",
           "variant_id": "V-RKF-9c9dd5233788016eba4a685f",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -14557,16 +14512,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -14581,14 +14526,19 @@
           "offer_id": "O-eb4323096ac52cb3e6cfc0b0",
           "variant_id": "V-RKF-4d2262e7c8c796dbca047980",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -14871,16 +14821,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -14902,14 +14842,19 @@
           "offer_id": "O-2cfc0b6849577ab5f09a1a8c",
           "variant_id": "V-RKF-42aa74a10acaf5a7c79da309",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -15199,16 +15144,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -15223,14 +15158,19 @@
           "offer_id": "O-8c528ea6d18c523b5be09012",
           "variant_id": "V-RKF-7d0292616db7fb1070fd89bf",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -15513,16 +15453,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -15544,14 +15474,19 @@
           "offer_id": "O-79dd1b539f95e5a701857af1",
           "variant_id": "V-RKF-5f91b4e0552560ee59da7de7",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -15841,16 +15776,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -15865,14 +15790,19 @@
           "offer_id": "O-f8496e071bd0aa0106903f95",
           "variant_id": "V-RKF-7e65d6b0d6445b1c41ce10c1",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "OUT_OF_STOCK",
@@ -16157,16 +16087,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -16181,14 +16101,19 @@
           "offer_id": "O-b0309efefd1a55869cb1c3f3",
           "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T02:02:53+00:00",
-          "last_attempt_at": "2026-11-07T02:02:53+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T02:02:53+00:00",
               "status": "OUT_OF_STOCK",
@@ -16471,16 +16396,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -16502,14 +16417,19 @@
           "offer_id": "O-b5ea70ade11bae3c82156377",
           "variant_id": "V-RKF-05287a8d5a576196daa349f5",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T02:02:53+00:00",
-          "last_attempt_at": "2026-11-07T02:02:53+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T02:02:53+00:00",
               "status": "OUT_OF_STOCK",
@@ -16799,16 +16719,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -16823,14 +16733,19 @@
           "offer_id": "O-eced24124bb7efc5406be997",
           "variant_id": "V-RKF-a2b534a06f1aa87a7a9bbbf6",
           "store": "inomata-fishing 楽天市場店",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T02:02:53+00:00",
-          "last_attempt_at": "2026-11-07T02:02:53+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
+          "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-07T02:02:53+00:00",
               "status": "OUT_OF_STOCK",
@@ -17113,16 +17028,6 @@
             },
             {
               "checked_at": "2026-11-02T18:02:44+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true,
               "price": {
@@ -18930,7 +18835,7 @@
             "O-5b696ed1b8f9103e9ec425eb"
           ],
           "barcode": "4580510965762",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-5fc1ae140d07fe1e4d2f17e9",
@@ -18941,7 +18846,7 @@
             "O-8f801acb6d07084352a9498d"
           ],
           "barcode": "4589945518291",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-f084e5598282b669bd1049a4",
@@ -18952,7 +18857,7 @@
             "O-d37d77f7bcbc8de700f303b4"
           ],
           "barcode": "4580510965793",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-1f70e3dd878bbdf0cafadb8d",
@@ -18963,7 +18868,7 @@
             "O-bef042484c49bb6818a33567"
           ],
           "barcode": "4589945518277",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-e35f69cde2d89b0d1d02b8c6",
@@ -18974,7 +18879,7 @@
             "O-9dc4a642589603004dc0fe3e"
           ],
           "barcode": "4589945518222",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-abd8b1a41f3f8583fc4840b9",
@@ -18985,7 +18890,7 @@
             "O-ad7656dea2e95e35b4f56ca2"
           ],
           "barcode": "4580510965779",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-15c21283553e2c16fc2b511d",
@@ -18996,7 +18901,7 @@
             "O-fa40c6f4e1bfb9e4e45e390f"
           ],
           "barcode": "4589945518253",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-0adacf4a8b3fc3037317671e",
@@ -19007,7 +18912,7 @@
             "O-faeb804afb3b078500bf36e6"
           ],
           "barcode": "4589945518284",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-9c9dd5233788016eba4a685f",
@@ -19018,7 +18923,7 @@
             "O-1ba48b63b0ada26b7be4b3f3"
           ],
           "barcode": "4580510965786",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-4d2262e7c8c796dbca047980",
@@ -19029,7 +18934,7 @@
             "O-eb4323096ac52cb3e6cfc0b0"
           ],
           "barcode": "4589945518260",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-42aa74a10acaf5a7c79da309",
@@ -19040,7 +18945,7 @@
             "O-2cfc0b6849577ab5f09a1a8c"
           ],
           "barcode": "4589945518307",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-7d0292616db7fb1070fd89bf",
@@ -19051,7 +18956,7 @@
             "O-8c528ea6d18c523b5be09012"
           ],
           "barcode": "4580510965809",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-5f91b4e0552560ee59da7de7",
@@ -19062,7 +18967,7 @@
             "O-79dd1b539f95e5a701857af1"
           ],
           "barcode": "4589945518239",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-7e65d6b0d6445b1c41ce10c1",
@@ -19073,7 +18978,7 @@
             "O-f8496e071bd0aa0106903f95"
           ],
           "barcode": "4589945518215",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-416f1d2f1f76806c396a7381",
@@ -19084,7 +18989,7 @@
             "O-b0309efefd1a55869cb1c3f3"
           ],
           "barcode": "4589945518314",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-05287a8d5a576196daa349f5",
@@ -19111,7 +19016,7 @@
             "O-eced24124bb7efc5406be997"
           ],
           "barcode": "4589945518246",
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "BlueBlue",
@@ -81000,7 +80905,7 @@
       ],
       "category_group": "fishing",
       "product": "メガバス シーバスルアー カゲロウ MD 98F GG アカキンスパークル [- / 型番 - / SKU 4513473515736]",
-      "observations": 264,
+      "observations": 265,
       "restock_events": 0,
       "offers": [
         {
@@ -81010,11 +80915,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/casting/4513473515736/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -81299,22 +81214,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -81768,7 +81673,7 @@
       ],
       "category_group": "other",
       "product": "DOD(ディーオーディー)チーズタープM 張り方自由自在の超大型ポリコットンタープ TT10-739-TN [型番 TT10-739-TN / SKU gr-e9g0aqeogf]",
-      "observations": 260,
+      "observations": 261,
       "restock_events": 0,
       "offers": [
         {
@@ -81778,11 +81683,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/happynight/gr-e9g0aqeogf/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 32462,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -82072,22 +81987,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 31965,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 32462,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -82099,11 +82004,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/daily-store/gr-e9g0aqeogf/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-07T01:01:23+00:00",
-          "last_attempt_at": "2026-11-07T01:01:23+00:00",
+          "last_reliable_checked_at": "2026-11-07T05:01:24+00:00",
+          "last_attempt_at": "2026-11-07T05:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-07T05:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 32462,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-07T01:01:23+00:00",
               "status": "IN_STOCK",
@@ -82388,22 +82303,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-02T16:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 31965,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 32462,
             "currency": "JPY",
-            "checked_at": "2026-11-07T01:01:23+00:00",
+            "checked_at": "2026-11-07T05:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
