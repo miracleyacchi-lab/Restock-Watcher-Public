@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-10T03:07:40+00:00",
+    "generated_at": "2026-11-10T04:08:53+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -822,7 +822,7 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-10T03:07:40+00:00",
+  "generated_at": "2026-11-10T04:08:53+00:00",
   "product_count": 114,
   "category_counts": {
     "ルアー": 9,
@@ -845,8 +845,8 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 27,
-    "UNKNOWN": 85,
+    "IN_STOCK": 23,
+    "UNKNOWN": 89,
     "OUT_OF_STOCK": 2
   },
   "seller_search_counts": {
@@ -3194,8 +3194,8 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 1040,
-      "restock_events": 35,
+      "observations": 1041,
+      "restock_events": 36,
       "offers": [
         {
           "offer_id": "F02-official",
@@ -3525,11 +3525,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/angle/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T20:02:57+00:00",
-          "last_attempt_at": "2026-11-09T20:02:57+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T20:02:57+00:00",
               "status": "IN_STOCK",
@@ -3809,22 +3819,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-09T20:02:57+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -3836,11 +3836,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "OUT_OF_STOCK",
@@ -4130,22 +4140,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -5835,7 +5835,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 1004,
+      "observations": 1005,
       "restock_events": 13,
       "offers": [
         {
@@ -6166,11 +6166,21 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/toysmkt/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T20:02:57+00:00",
-          "last_attempt_at": "2026-11-09T20:02:57+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2723,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T20:02:57+00:00",
               "status": "IN_STOCK",
@@ -6453,16 +6463,6 @@
             },
             {
               "checked_at": "2026-11-04T21:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2723,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true,
               "price": {
@@ -6475,7 +6475,7 @@
           "price": {
             "amount": 2723,
             "currency": "JPY",
-            "checked_at": "2026-11-09T20:02:57+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -6487,11 +6487,21 @@
           "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/y-bunbun/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T20:02:57+00:00",
-          "last_attempt_at": "2026-11-09T20:02:57+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T20:02:57+00:00",
               "status": "IN_STOCK",
@@ -6781,22 +6791,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-09T20:02:57+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -6808,11 +6808,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/casting/4513473560170.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T20:02:57+00:00",
-          "last_attempt_at": "2026-11-09T20:02:57+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T20:02:57+00:00",
               "status": "OUT_OF_STOCK",
@@ -7102,22 +7112,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-09T20:02:57+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -7129,11 +7129,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/casting/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T20:02:57+00:00",
-          "last_attempt_at": "2026-11-09T20:02:57+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T20:02:57+00:00",
               "status": "OUT_OF_STOCK",
@@ -7418,22 +7428,12 @@
               "checked_at": "2026-11-04T21:01:23+00:00",
               "status": "ERROR",
               "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-09T20:02:57+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -7445,11 +7445,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/angle/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "OUT_OF_STOCK",
@@ -7739,22 +7749,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -8164,7 +8164,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 1044,
+      "observations": 1045,
       "restock_events": 17,
       "offers": [
         {
@@ -9137,11 +9137,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/hanamaruhonp01/20261021042716_244/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2953,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "OUT_OF_STOCK",
@@ -9431,22 +9441,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2953,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2953,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11146,7 +11146,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim",
-      "observations": 1027,
+      "observations": 1028,
       "restock_events": 12,
       "offers": [
         {
@@ -11322,10 +11322,15 @@
           "url": "https://item.rakuten.co.jp/mycof/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-25T22:07:23+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "UNKNOWN",
@@ -11470,11 +11475,6 @@
               "checked_at": "2026-11-04T18:03:07+00:00",
               "status": "UNKNOWN",
               "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-04T14:02:37+00:00",
-              "status": "UNKNOWN",
-              "stock_reliable": false
             }
           ],
           "marketplace": "楽天市場"
@@ -11486,11 +11486,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "IN_STOCK",
@@ -11765,22 +11775,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11792,11 +11792,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -12066,22 +12076,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12093,11 +12093,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -12367,22 +12377,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T22:02:46+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12394,11 +12394,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "OUT_OF_STOCK",
@@ -12673,22 +12683,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12700,11 +12700,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "OUT_OF_STOCK",
@@ -12979,22 +12989,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13006,11 +13006,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -13285,22 +13295,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13312,11 +13312,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -13591,22 +13601,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13618,11 +13618,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -13897,22 +13907,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13924,11 +13924,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -14203,22 +14213,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T19:01:21+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -14230,11 +14230,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -14509,22 +14519,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T19:01:21+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -14536,11 +14536,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T22:02:36+00:00",
-          "last_attempt_at": "2026-11-09T22:02:36+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T22:02:36+00:00",
               "status": "IN_STOCK",
@@ -14815,22 +14825,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T19:01:21+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2217,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-09T22:02:36+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -38485,12 +38485,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 49500,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "楽天市場"
         },
         {
@@ -41775,12 +41769,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 29700,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "楽天市場"
         },
         {
@@ -54878,6 +54866,16 @@
             }
           ],
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-ff440dac730e6ce61911e995",
+          "variant_id": "V-JAN-4570090254738",
+          "store": "field-seven 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/field-seven/4570090254769/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -54902,7 +54900,8 @@
             "O-f95439934e853297ad014c22",
             "O-686201479575cc9dbef2fff0",
             "O-c795e9e304b606a562bc1e03",
-            "O-6eccf2ed39ec92dddc08f3ca"
+            "O-6eccf2ed39ec92dddc08f3ca",
+            "O-ff440dac730e6ce61911e995"
           ],
           "barcode": "4570090254738",
           "status": "UNKNOWN"
@@ -55572,12 +55571,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 3520,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -60707,12 +60700,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 2255,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "楽天市場"
         },
         {
@@ -65172,12 +65159,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 3090,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "楽天市場"
         },
         {
@@ -68569,9 +68550,9 @@
           "offer_id": "O-COLOR-1447701407added903e71a28",
           "variant_id": "V-COLOR-1447701407added903e71a28",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/006297/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -68801,9 +68782,9 @@
           "offer_id": "O-COLOR-13803968d19a2437ff48432d",
           "variant_id": "V-COLOR-13803968d19a2437ff48432d",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/006297/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -69662,7 +69643,7 @@
             "O-d9c47286606f379a945d049d"
           ],
           "barcode": "4582754517141",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-09323aa9f3c04dafbb99094a",
@@ -69721,7 +69702,7 @@
           "offer_ids": [
             "O-COLOR-13803968d19a2437ff48432d"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "BlueBlue",
@@ -69781,7 +69762,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue スネコン60S",
-      "observations": 317,
+      "observations": 318,
       "restock_events": 2,
       "offers": [
         {
@@ -70188,14 +70169,24 @@
           "offer_id": "O-COLOR-20d4289b294865cd2e5d35f5",
           "variant_id": "V-COLOR-20d4289b294865cd2e5d35f5",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006424/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 1980,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -70222,6 +70213,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 1980,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -70268,9 +70265,9 @@
           "offer_id": "O-COLOR-16403c224ab345b46dffc78b",
           "variant_id": "V-COLOR-16403c224ab345b46dffc78b",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/006424/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -70364,14 +70361,24 @@
           "offer_id": "O-COLOR-1fbd9ce7bdef2d9812dbbf70",
           "variant_id": "V-COLOR-1fbd9ce7bdef2d9812dbbf70",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006424/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
-          "latest_observation_status": "OUT_OF_STOCK",
-          "last_reliable_status": "OUT_OF_STOCK",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2310,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -70398,6 +70405,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2310,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -70549,12 +70562,6 @@
               }
             }
           ],
-          "price": {
-            "amount": 1929,
-            "currency": "JPY",
-            "checked_at": "2026-11-09T04:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "楽天市場"
         },
         {
@@ -71149,7 +71156,7 @@
             "O-4b56f2a204465cd9dd70d589"
           ],
           "barcode": "4582754517561",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         },
         {
           "variant_id": "V-COLOR-7df851cbf5bdf76f6a794084",
@@ -71171,7 +71178,7 @@
           "offer_ids": [
             "O-COLOR-16403c224ab345b46dffc78b"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-eb9620ab3ae7752a7e302fa7",
@@ -71191,7 +71198,7 @@
           "offer_ids": [
             "O-COLOR-1fbd9ce7bdef2d9812dbbf70"
           ],
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "BlueBlue",
@@ -71250,7 +71257,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ガチペンライオット155",
-      "observations": 306,
+      "observations": 307,
       "restock_events": 4,
       "offers": [
         {
@@ -71417,14 +71424,24 @@
           "offer_id": "O-COLOR-2a10f8766d1b5e5fc19e231c",
           "variant_id": "V-COLOR-2a10f8766d1b5e5fc19e231c",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/006454/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 4620,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -71451,6 +71468,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 4620,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -72504,9 +72527,9 @@
           "offer_id": "O-COLOR-1e5ad7e7a2e4400c8e2f5995",
           "variant_id": "V-COLOR-1e5ad7e7a2e4400c8e2f5995",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/006196/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -73350,7 +73373,7 @@
             "O-b9b6409fbff203cf813ba4ba"
           ],
           "barcode": "4582754515574",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-f13eee5ac19cf6fa8d1761c8",
@@ -73433,7 +73456,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue スネコン90S",
-      "observations": 313,
+      "observations": 314,
       "restock_events": 4,
       "offers": [
         {
@@ -73480,14 +73503,24 @@
           "offer_id": "O-COLOR-247fbf702b93a7694b854066",
           "variant_id": "V-COLOR-247fbf702b93a7694b854066",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000554/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2310,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -73514,6 +73547,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2310,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -74000,9 +74039,9 @@
           "offer_id": "O-COLOR-125287a5763a63d17dc7ad26",
           "variant_id": "V-COLOR-125287a5763a63d17dc7ad26",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/000554/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -74999,7 +75038,7 @@
             "O-829c29d6d8ca85052734497d"
           ],
           "barcode": "4580510964673",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-51957fdf74c675f816959f25",
@@ -76593,9 +76632,9 @@
           "offer_id": "O-COLOR-1a9491e7649c59a1992309e1",
           "variant_id": "V-COLOR-1a9491e7649c59a1992309e1",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/002389/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -77485,7 +77524,7 @@
           "offer_ids": [
             "O-COLOR-1a9491e7649c59a1992309e1"
           ],
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-f35a0e86cd30c9bf91c2334a",
@@ -78140,9 +78179,9 @@
           "offer_id": "O-COLOR-12f452351bcfa8336df0c24c",
           "variant_id": "V-COLOR-12f452351bcfa8336df0c24c",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/003268/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -78855,7 +78894,7 @@
             "O-50ab7c0ae66d06ef2de73760"
           ],
           "barcode": "4582754516311",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-fada9d49f6f438a0a32fb687",
@@ -78971,7 +79010,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ガボッツ120",
-      "observations": 306,
+      "observations": 307,
       "restock_events": 0,
       "offers": [
         {
@@ -79018,9 +79057,9 @@
           "offer_id": "O-COLOR-16875c728b71bdc9238de1a3",
           "variant_id": "V-COLOR-16875c728b71bdc9238de1a3",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/005516/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -79274,14 +79313,24 @@
           "offer_id": "O-COLOR-24081edc7beda15090ac0223",
           "variant_id": "V-COLOR-24081edc7beda15090ac0223",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005516/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2739,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -79308,6 +79357,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2739,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -79434,14 +79489,24 @@
           "offer_id": "O-COLOR-2a0579c90fa1a6d5a2d549b8",
           "variant_id": "V-COLOR-2a0579c90fa1a6d5a2d549b8",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005516/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2739,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -79468,6 +79533,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2739,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -80399,9 +80470,9 @@
           "offer_id": "O-COLOR-1e4c4aaaee2f26d58a632f5c",
           "variant_id": "V-COLOR-1e4c4aaaee2f26d58a632f5c",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/005546/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -80455,9 +80526,9 @@
           "offer_id": "O-COLOR-1d58c9e7b0ffef0a88548964",
           "variant_id": "V-COLOR-1d58c9e7b0ffef0a88548964",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/005546/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -80717,7 +80788,7 @@
           "offer_ids": [
             "O-COLOR-1e4c4aaaee2f26d58a632f5c"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-1d58c9e7b0ffef0a88548964",
@@ -80727,7 +80798,7 @@
           "offer_ids": [
             "O-COLOR-1d58c9e7b0ffef0a88548964"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-fdb95b19286a18dea96ca717",
@@ -80802,7 +80873,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ガチペン130",
-      "observations": 301,
+      "observations": 302,
       "restock_events": 0,
       "offers": [
         {
@@ -81065,9 +81136,9 @@
           "offer_id": "O-COLOR-14af57a9833d93790cc87a7f",
           "variant_id": "V-COLOR-14af57a9833d93790cc87a7f",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/004448/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -81121,14 +81192,24 @@
           "offer_id": "O-COLOR-2b5f64d0c0ca0aef10a5d987",
           "variant_id": "V-COLOR-2b5f64d0c0ca0aef10a5d987",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/004448/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2695,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -81155,6 +81236,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2695,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -81201,14 +81288,24 @@
           "offer_id": "O-COLOR-21952aea1d5625c6b73f4d09",
           "variant_id": "V-COLOR-21952aea1d5625c6b73f4d09",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/004448/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3025,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -81235,6 +81332,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 3025,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -81307,7 +81410,7 @@
           "offer_ids": [
             "O-COLOR-14af57a9833d93790cc87a7f"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-2b5f64d0c0ca0aef10a5d987",
@@ -81317,7 +81420,7 @@
           "offer_ids": [
             "O-COLOR-2b5f64d0c0ca0aef10a5d987"
           ],
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         },
         {
           "variant_id": "V-COLOR-36415763bfd2ebb6dea4e0ff",
@@ -81337,7 +81440,7 @@
           "offer_ids": [
             "O-COLOR-21952aea1d5625c6b73f4d09"
           ],
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "BlueBlue",
@@ -81379,7 +81482,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue エグイド90F",
-      "observations": 300,
+      "observations": 301,
       "restock_events": 0,
       "offers": [
         {
@@ -81631,14 +81734,19 @@
           "offer_id": "O-COLOR-1e5c97f5ed681321725d819e",
           "variant_id": "V-COLOR-1e5c97f5ed681321725d819e",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005147/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -81811,14 +81919,19 @@
           "offer_id": "O-COLOR-25b8d179f5973fbb7bce3331",
           "variant_id": "V-COLOR-25b8d179f5973fbb7bce3331",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005147/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -81927,7 +82040,7 @@
           "offer_ids": [
             "O-COLOR-1e5c97f5ed681321725d819e"
           ],
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         },
         {
           "variant_id": "V-COLOR-ea974d4d6117167b31836a99",
@@ -81987,7 +82100,7 @@
           "offer_ids": [
             "O-COLOR-25b8d179f5973fbb7bce3331"
           ],
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "BlueBlue",
@@ -82035,7 +82148,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ブローウィン！140S",
-      "observations": 305,
+      "observations": 306,
       "restock_events": 3,
       "offers": [
         {
@@ -82072,14 +82185,19 @@
           "offer_id": "O-COLOR-1f7303c955ab42f0a5699a61",
           "variant_id": "V-COLOR-1f7303c955ab42f0a5699a61",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -82322,14 +82440,19 @@
           "offer_id": "O-COLOR-2b2b60c274c363e907764ad4",
           "variant_id": "V-COLOR-2b2b60c274c363e907764ad4",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -82562,14 +82685,19 @@
           "offer_id": "O-COLOR-2aa5f5d7eec99964c1821f1b",
           "variant_id": "V-COLOR-2aa5f5d7eec99964c1821f1b",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -82712,9 +82840,9 @@
           "offer_id": "O-COLOR-18ff1d4939200decac3ae6a9",
           "variant_id": "V-COLOR-18ff1d4939200decac3ae6a9",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/000713/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -82918,7 +83046,7 @@
           "offer_ids": [
             "O-COLOR-1f7303c955ab42f0a5699a61"
           ],
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         },
         {
           "variant_id": "V-COLOR-9244e55268a1fcc053fa17ec",
@@ -82998,7 +83126,7 @@
           "offer_ids": [
             "O-COLOR-2b2b60c274c363e907764ad4"
           ],
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         },
         {
           "variant_id": "V-COLOR-c6cd97e14d1dc3ba21773b25",
@@ -83078,7 +83206,7 @@
           "offer_ids": [
             "O-COLOR-2aa5f5d7eec99964c1821f1b"
           ],
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         },
         {
           "variant_id": "V-COLOR-40b90c0071d611579ce7e81d",
@@ -83128,7 +83256,7 @@
           "offer_ids": [
             "O-COLOR-18ff1d4939200decac3ae6a9"
           ],
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-e83a76af4a57fb61fb17644c",
@@ -83401,9 +83529,9 @@
           "offer_id": "O-COLOR-146a401f9d0018869a4bb3bd",
           "variant_id": "V-COLOR-146a401f9d0018869a4bb3bd",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/003516/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -83672,7 +83800,7 @@
           "offer_ids": [
             "O-COLOR-146a401f9d0018869a4bb3bd"
           ],
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-d5dc289706cb9d3b3d7cab4f",
@@ -85205,21 +85333,26 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue スネコン130S",
-      "observations": 319,
+      "observations": 320,
       "restock_events": 3,
       "offers": [
         {
           "offer_id": "O-COLOR-2dbb771c3d73d830863604b2",
           "variant_id": "V-COLOR-2dbb771c3d73d830863604b2",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -85302,14 +85435,19 @@
           "offer_id": "O-COLOR-23ebdcf213bc3cddb6a496b5",
           "variant_id": "V-COLOR-23ebdcf213bc3cddb6a496b5",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
-          "latest_observation_status": "IN_STOCK",
-          "last_reliable_status": "IN_STOCK",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
+          "latest_observation_status": "OUT_OF_STOCK",
+          "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "IN_STOCK",
@@ -85452,9 +85590,9 @@
           "offer_id": "O-COLOR-1247914432938b11d570ff62",
           "variant_id": "V-COLOR-1247914432938b11d570ff62",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -85907,9 +86045,9 @@
           "offer_id": "O-COLOR-19d8f8aa42adce8b2f6aef8c",
           "variant_id": "V-COLOR-19d8f8aa42adce8b2f6aef8c",
           "store": "BlueBlue公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/000567/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -86523,7 +86661,7 @@
             "O-236a77a7cec6cde23865153b"
           ],
           "barcode": "4589945510608",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         },
         {
           "variant_id": "V-COLOR-2e59203a21fab6b6d3ca713e",
@@ -86619,7 +86757,7 @@
           "offer_ids": [
             "O-COLOR-1247914432938b11d570ff62"
           ],
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-c691960ef8d797482a93401b",
@@ -86789,7 +86927,7 @@
           "offer_ids": [
             "O-COLOR-19d8f8aa42adce8b2f6aef8c"
           ],
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-98cb2bf2612a2789a3b21701",
@@ -86906,7 +87044,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ガチポップ100",
-      "observations": 303,
+      "observations": 304,
       "restock_events": 3,
       "offers": [
         {
@@ -86953,9 +87091,9 @@
           "offer_id": "O-COLOR-125fdf600ad284a6e4b97725",
           "variant_id": "V-COLOR-125fdf600ad284a6e4b97725",
           "store": "BlueBlue公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://www.bluebluefishing.com/item/detail/005188/",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-10T03:01:40+00:00",
           "last_attempt_at": "2026-11-10T03:01:40+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -87169,14 +87307,24 @@
           "offer_id": "O-COLOR-2bbd66cdef4e4cb62fe044c2",
           "variant_id": "V-COLOR-2bbd66cdef4e4cb62fe044c2",
           "store": "BlueBlue公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://www.bluebluefishing.com/item/detail/005188/",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T00:02:46+00:00",
-          "last_attempt_at": "2026-11-01T00:02:46+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2365,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T00:02:46+00:00",
               "status": "OUT_OF_STOCK",
@@ -87203,6 +87351,12 @@
               "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 2365,
+            "currency": "JPY",
+            "checked_at": "2026-11-10T04:02:44+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -87537,7 +87691,7 @@
           "offer_ids": [
             "O-COLOR-125fdf600ad284a6e4b97725"
           ],
-          "status": "OUT_OF_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-COLOR-5ef743f5673840a9288838ce",
@@ -87587,7 +87741,7 @@
           "offer_ids": [
             "O-COLOR-2bbd66cdef4e4cb62fe044c2"
           ],
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         },
         {
           "variant_id": "V-COLOR-428f999ba16907a42557999a",
@@ -87703,7 +87857,7 @@
       ],
       "category_group": "fishing",
       "product": "メガバス シーバスルアー カゲロウ MD 98F GG アカキンスパークル [- / 型番 - / SKU 4513473515736]",
-      "observations": 277,
+      "observations": 278,
       "restock_events": 0,
       "offers": [
         {
@@ -87713,11 +87867,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/casting/4513473515736/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "IN_STOCK",
@@ -88007,22 +88171,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T15:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -88471,21 +88625,26 @@
       ],
       "category_group": "other",
       "product": "DOD(ディーオーディー)チーズタープM 張り方自由自在の超大型ポリコットンタープ TT10-739-TN [型番 TT10-739-TN / SKU gr-e9g0aqeogf]",
-      "observations": 275,
+      "observations": 276,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "O-f118f8e6ed4551821e587202",
           "variant_id": "V-RK-a27fbadf48a1400f1b7510f6",
           "store": "happynight 楽天市場店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/happynight/gr-e9g0aqeogf/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
-          "latest_observation_status": "IN_STOCK",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
+          "latest_observation_status": "ERROR",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "ERROR",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "IN_STOCK",
@@ -88775,16 +88934,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 31956,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -88802,11 +88951,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/daily-store/gr-e9g0aqeogf/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-09T21:01:26+00:00",
-          "last_attempt_at": "2026-11-09T21:01:26+00:00",
+          "last_reliable_checked_at": "2026-11-10T04:02:44+00:00",
+          "last_attempt_at": "2026-11-10T04:02:44+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-10T04:02:44+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 32461,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T21:01:26+00:00",
               "status": "IN_STOCK",
@@ -89096,22 +89255,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-04T18:03:07+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 31956,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 32461,
             "currency": "JPY",
-            "checked_at": "2026-11-09T21:01:26+00:00",
+            "checked_at": "2026-11-10T04:02:44+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
