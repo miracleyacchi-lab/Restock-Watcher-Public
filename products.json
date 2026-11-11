@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-11T11:08:56+00:00",
+    "generated_at": "2026-11-11T12:07:38+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -313,6 +313,7 @@
       "https://item.rakuten.co.jp/turikichiparadaisu/110s2/",
       "https://item.rakuten.co.jp/turikichiparadaisu/167fs66blbl/",
       "https://item.rakuten.co.jp/turikichiparadaisu/gb150_2/",
+      "https://item.rakuten.co.jp/turikichiparadaisu/gb150_49/",
       "https://item.rakuten.co.jp/turikichiparadaisu/kage124_10/",
       "https://item.rakuten.co.jp/unby/392101-10/",
       "https://item.rakuten.co.jp/unby/392101camo-98/",
@@ -739,6 +740,7 @@
     "https://item.rakuten.co.jp/turikichiparadaisu/110s2/",
     "https://item.rakuten.co.jp/turikichiparadaisu/167fs66blbl/",
     "https://item.rakuten.co.jp/turikichiparadaisu/gb150_2/",
+    "https://item.rakuten.co.jp/turikichiparadaisu/gb150_49/",
     "https://item.rakuten.co.jp/turikichiparadaisu/kage124_10/",
     "https://item.rakuten.co.jp/unby/392101-10/",
     "https://item.rakuten.co.jp/unby/392101camo-98/",
@@ -852,7 +854,7 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-11T11:08:56+00:00",
+  "generated_at": "2026-11-11T12:07:38+00:00",
   "product_count": 114,
   "category_counts": {
     "ルアー": 9,
@@ -875,9 +877,10 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 23,
-    "UNKNOWN": 89,
-    "OUT_OF_STOCK": 2
+    "IN_STOCK": 25,
+    "UNKNOWN": 80,
+    "OUT_OF_STOCK": 8,
+    "PREORDER": 1
   },
   "seller_search_counts": {
     "waiting_products": 1,
@@ -895,7 +898,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "observations": 1045,
+      "observations": 1046,
       "restock_events": 8,
       "offers": [
         {
@@ -2184,11 +2187,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473448416/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "IN_STOCK",
@@ -2478,22 +2491,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -3224,7 +3227,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 1064,
+      "observations": 1065,
       "restock_events": 41,
       "offers": [
         {
@@ -4508,11 +4511,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/fto-r/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T04:03:06+00:00",
-          "last_attempt_at": "2026-11-11T04:03:06+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T04:03:06+00:00",
               "status": "OUT_OF_STOCK",
@@ -4802,22 +4815,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T09:01:22+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-11T04:03:06+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -5865,8 +5868,8 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 1020,
-      "restock_events": 14,
+      "observations": 1021,
+      "restock_events": 15,
       "offers": [
         {
           "offer_id": "F03-official",
@@ -7801,11 +7804,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "IN_STOCK",
@@ -8095,22 +8108,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -8199,7 +8202,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 1069,
+      "observations": 1070,
       "restock_events": 19,
       "offers": [
         {
@@ -9493,11 +9496,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/articlestore/8260920184/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T04:03:06+00:00",
-          "last_attempt_at": "2026-11-11T04:03:06+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2004,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T04:03:06+00:00",
               "status": "IN_STOCK",
@@ -9787,22 +9800,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2004,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2004,
             "currency": "JPY",
-            "checked_at": "2026-11-11T04:03:06+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -9814,11 +9817,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/tsurigu-tobinuke/090224603/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "IN_STOCK",
@@ -10108,22 +10121,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -10135,11 +10138,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473559877/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "IN_STOCK",
@@ -10429,22 +10442,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11181,7 +11184,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim",
-      "observations": 1049,
+      "observations": 1050,
       "restock_events": 15,
       "offers": [
         {
@@ -17015,10 +17018,15 @@
           "url": "https://item.rakuten.co.jp/kurodaitsurigu/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-25T22:07:23+00:00",
-          "last_attempt_at": "2026-11-11T04:03:06+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T04:03:06+00:00",
               "status": "UNKNOWN",
@@ -17161,11 +17169,6 @@
             },
             {
               "checked_at": "2026-11-05T16:03:09+00:00",
-              "status": "UNKNOWN",
-              "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
               "status": "UNKNOWN",
               "stock_reliable": false
             }
@@ -18459,6 +18462,16 @@
           "last_reliable_status": "IN_STOCK",
           "history": [
             {
+              "checked_at": "2026-11-11T12:06:40.439647+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false,
+              "price": {
+                "amount": 2112,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
+            {
               "checked_at": "2026-11-10T22:02:49+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true,
@@ -18747,22 +18760,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T11:01:21+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2112,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2112,
             "currency": "JPY",
-            "checked_at": "2026-11-10T22:02:49+00:00",
+            "checked_at": "2026-11-11T12:06:40.439647+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -36358,21 +36361,31 @@
       ],
       "category_group": "camping",
       "product": "AS2OV NYLON POLYCARBONATECOT BLACK ナイロンポリカーボネートコット",
-      "observations": 514,
+      "observations": 515,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4570090255339-as2ov",
           "variant_id": "V-JAN-4570090255339",
           "store": "AS2OV公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://as2ov.jp/products/cot-black",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 40700,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "IN_STOCK",
@@ -36662,32 +36675,38 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-10-23T21:07:21+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 40700,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
+          "price": {
+            "amount": 40700,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
           "offer_id": "P-JAN-4570090255339-yahoo-rodcontrol",
           "variant_id": "V-JAN-4570090255339",
           "store": "rodcontrol Yahoo!店",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-1146.html",
-          "monitoring_status": "paused",
+          "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
           "last_attempt_at": "2026-11-01T15:03:15+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:06:40.439647+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false,
+              "price": {
+                "amount": 40700,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "IN_STOCK",
@@ -36977,18 +36996,14 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-10-23T21:07:21+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 40700,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
+          "price": {
+            "amount": 40700,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:06:40.439647+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "Yahoo!ショッピング"
         },
         {
@@ -37074,7 +37089,7 @@
             "O-5131e9b5aa9441e00c21ed9d"
           ],
           "barcode": "4570090255339",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "AS2OV",
@@ -37312,9 +37327,9 @@
           "offer_id": "P-JAN-4570090255124-yahoo-wins",
           "variant_id": "V-JAN-4570090255124",
           "store": "wins Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/wins/492500-10.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -37578,9 +37593,9 @@
           "offer_id": "P-JAN-4570090255124-yahoo-naturum-od",
           "variant_id": "V-JAN-4570090255124",
           "store": "naturum-od Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/naturum-od/9995648.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -37844,9 +37859,9 @@
           "offer_id": "P-JAN-4570090255124-yahoo-naturum-outdoor",
           "variant_id": "V-JAN-4570090255124",
           "store": "naturum-outdoor Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/naturum-outdoor/9995648.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -38110,9 +38125,9 @@
           "offer_id": "P-JAN-4570090255124-yahoo-atbousai",
           "variant_id": "V-JAN-4570090255124",
           "store": "atbousai Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/atbousai/9995648.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -38376,9 +38391,9 @@
           "offer_id": "P-JAN-4570090255124-yahoo-west-shop",
           "variant_id": "V-JAN-4570090255124",
           "store": "WEST WEB STORE",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/west-shop/822621-822622.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -38961,7 +38976,7 @@
             "color": "BLACK",
             "weight": "3.0kg"
           },
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "AS2OV",
@@ -39010,9 +39025,9 @@
           "offer_id": "P-JAN-4570090255131-as2ov",
           "variant_id": "V-JAN-4570090255131",
           "store": "AS2OV公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://as2ov.jp/products/cot-tent-khaki",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -39331,9 +39346,9 @@
           "offer_id": "P-JAN-4570090255131-yahoo-naturum-outdoor",
           "variant_id": "V-JAN-4570090255131",
           "store": "naturum-outdoor Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/naturum-outdoor/9995649.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -39652,9 +39667,9 @@
           "offer_id": "P-JAN-4570090255131-yahoo-naturum-od",
           "variant_id": "V-JAN-4570090255131",
           "store": "naturum-od Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/naturum-od/9995649.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -39973,9 +39988,9 @@
           "offer_id": "P-JAN-4570090255131-yahoo-atbousai",
           "variant_id": "V-JAN-4570090255131",
           "store": "atbousai Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/atbousai/9995649.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -40415,7 +40430,7 @@
             "color": "KHAKI",
             "weight": "3.0kg"
           },
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "AS2OV",
@@ -40464,9 +40479,9 @@
           "offer_id": "P-JAN-4570090255162-as2ov",
           "variant_id": "V-JAN-4570090255162",
           "store": "AS2OV公式",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://as2ov.jp/products/folding-table",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -40785,9 +40800,9 @@
           "offer_id": "P-JAN-4570090255162-yahoo-field-seven",
           "variant_id": "V-JAN-4570090255162",
           "store": "field-seven Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/field-seven/4570090255162.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -41106,9 +41121,9 @@
           "offer_id": "P-JAN-4570090255162-yahoo-rodcontrol",
           "variant_id": "V-JAN-4570090255162",
           "store": "rodcontrol Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-1147.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -41427,9 +41442,9 @@
           "offer_id": "P-JAN-4570090255162-yahoo-wins",
           "variant_id": "V-JAN-4570090255162",
           "store": "wins Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/wins/492502-10.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -42239,7 +42254,7 @@
             "O-d33814ceae82bb835ad95f4c"
           ],
           "barcode": "4570090255162",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "AS2OV",
@@ -42271,21 +42286,31 @@
       ],
       "category_group": "camping",
       "product": "AS2OV ORIGINAL CAMO POLYCA SERIES HIGH BACK RECLINING LOW ROVER CHAIR オリジナルカモポリカシリーズ リクライニングハイバックローバーチェア",
-      "observations": 100,
+      "observations": 101,
       "restock_events": 2,
       "offers": [
         {
           "offer_id": "P-JAN-4570090255377-as2ov",
           "variant_id": "V-JAN-4570090255377",
           "store": "AS2OV公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://as2ov.jp/products/original-camo-polyca-series-high-back-reclining-low-rover-chair-camo",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 28600,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T10:06:26.538779+00:00",
               "status": "UNKNOWN",
@@ -42455,17 +42480,12 @@
               "checked_at": "2026-10-06T02:20:17+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:46:25+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true
             }
           ],
           "price": {
             "amount": 28600,
             "currency": "JPY",
-            "checked_at": "2026-11-11T10:06:26.538779+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
@@ -42627,7 +42647,7 @@
             "size": "ハイバック",
             "weight": "約4kg"
           },
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "AS2OV",
@@ -42676,9 +42696,9 @@
           "offer_id": "P-JAN-4570090253328-as2ov",
           "variant_id": "V-JAN-4570090253328",
           "store": "AS2OV公式",
-          "status": "OUT_OF_STOCK",
+          "status": "UNKNOWN",
           "url": "https://as2ov.jp/products/side-table-left-for-as2ov-rover-chair",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -42997,9 +43017,9 @@
           "offer_id": "P-JAN-4570090253328-yahoo-rodcontrol",
           "variant_id": "V-JAN-4570090253328",
           "store": "rodcontrol Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/rodcontrol/8-932.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -43318,9 +43338,9 @@
           "offer_id": "P-JAN-4570090253328-yahoo-wins",
           "variant_id": "V-JAN-4570090253328",
           "store": "wins Yahoo!店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://store.shopping.yahoo.co.jp/wins/392302-23.html",
-          "monitoring_status": "active",
+          "monitoring_status": "paused",
           "last_reliable_checked_at": "2026-11-11T11:01:25+00:00",
           "last_attempt_at": "2026-11-11T11:01:25+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -44525,7 +44545,7 @@
             "O-6ec92d2c0f977efb20f82933"
           ],
           "barcode": "4570090253328",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         }
       ],
       "brand": "AS2OV",
@@ -44801,21 +44821,31 @@
       ],
       "category_group": "camping",
       "product": "TOKYO CRAFTS 焚き火台KUBERU",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580702320034-tokyocrafts",
           "variant_id": "V-JAN-4580702320034",
           "store": "TOKYO CRAFTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://tokyocrafts.jp/products/products-001-kuberu",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 19800,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -44980,13 +45010,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 19800,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -44998,7 +45029,7 @@
             "P-JAN-4580702320034-tokyocrafts"
           ],
           "barcode": "4580702320034",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "TOKYO CRAFTS",
@@ -45033,21 +45064,31 @@
       ],
       "category_group": "camping",
       "product": "TOKYO CRAFTS メバ 焚き火台",
-      "observations": 94,
+      "observations": 95,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580702321147-tokyocrafts",
           "variant_id": "V-JAN-4580702321147",
           "store": "TOKYO CRAFTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://tokyocrafts.jp/products/products-150-meba-bbq-grill",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 17930,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -45212,13 +45253,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 17930,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -45233,6 +45275,16 @@
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:06:40.439647+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false,
+              "price": {
+                "amount": 17930,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-10T20:03:00+00:00",
               "status": "OUT_OF_STOCK",
@@ -45257,7 +45309,7 @@
           "price": {
             "amount": 17930,
             "currency": "JPY",
-            "checked_at": "2026-11-10T20:03:00+00:00",
+            "checked_at": "2026-11-11T12:06:40.439647+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -45542,21 +45594,31 @@
       ],
       "category_group": "camping",
       "product": "TOKYO CRAFTS NANGA別注 スリーピングバッグ ピロー",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580702322625-tokyocrafts",
           "variant_id": "V-JAN-4580702322625",
           "store": "TOKYO CRAFTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://tokyocrafts.jp/products/tc280-nanga-sleeping-bag-pillow",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 9350,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -45721,13 +45783,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 9350,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -45739,7 +45802,7 @@
             "P-JAN-4580702322625-tokyocrafts"
           ],
           "barcode": "4580702322625",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "TOKYO CRAFTS",
@@ -46953,21 +47016,31 @@
       ],
       "category_group": "camping",
       "product": "TOKYO CRAFTS ハイブリッドエアピロー",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580702322755-tokyocrafts",
           "variant_id": "V-JAN-4580702322755",
           "store": "TOKYO CRAFTS公式",
-          "status": "UNKNOWN",
+          "status": "PREORDER",
           "url": "https://tokyocrafts.jp/products/tc410-hybrid-air-pillow",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "PREORDER",
           "last_reliable_status": "PREORDER",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "PREORDER",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3850,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "PREORDER",
@@ -47132,13 +47205,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "PREORDER",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "PREORDER",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 3850,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -47150,7 +47224,7 @@
             "P-JAN-4580702322755-tokyocrafts"
           ],
           "barcode": "4580702322755",
-          "status": "UNKNOWN"
+          "status": "PREORDER"
         }
       ],
       "brand": "TOKYO CRAFTS",
@@ -48587,21 +48661,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS BAMI",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580564023500-zanearts",
           "variant_id": "V-JAN-4580564023500",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://zanearts.com/products/bami",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 54800,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "IN_STOCK",
@@ -48766,13 +48850,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 54800,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -48784,7 +48869,7 @@
             "P-JAN-4580564023500-zanearts"
           ],
           "barcode": "4580564023500",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -48818,21 +48903,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS GIMORG",
-      "observations": 94,
+      "observations": 95,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580564020714-zanearts",
           "variant_id": "V-JAN-4580564020714",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://zanearts.com/products/gimorg",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 29900,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -48997,13 +49092,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 29900,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         },
         {
@@ -49018,6 +49114,16 @@
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:06:40.439647+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false,
+              "price": {
+                "amount": 38055,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-09T00:02:41+00:00",
               "status": "OUT_OF_STOCK",
@@ -49039,6 +49145,12 @@
               }
             }
           ],
+          "price": {
+            "amount": 38055,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:06:40.439647+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "楽天市場"
         }
       ],
@@ -49085,21 +49197,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS KIIRA",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 1,
       "offers": [
         {
           "offer_id": "P-JAN-4580564023456-zanearts",
           "variant_id": "V-JAN-4580564023456",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://zanearts.com/products/kiira",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 108000,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "IN_STOCK",
@@ -49264,13 +49386,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 108000,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -49282,7 +49405,7 @@
             "P-JAN-4580564023456-zanearts"
           ],
           "barcode": "4580564023456",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -49316,21 +49439,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS TAO-1",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580564023470-zanearts",
           "variant_id": "V-JAN-4580564023470",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://zanearts.com/products/tao-1",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 49800,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -49495,13 +49628,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 49800,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -49513,7 +49647,7 @@
             "P-JAN-4580564023470-zanearts"
           ],
           "barcode": "4580564023470",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -49547,21 +49681,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS TAO-2",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580564023487-zanearts",
           "variant_id": "V-JAN-4580564023487",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://zanearts.com/products/tao-2",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 52800,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -49726,13 +49870,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 52800,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -49744,7 +49889,7 @@
             "P-JAN-4580564023487-zanearts"
           ],
           "barcode": "4580564023487",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -49778,21 +49923,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS TITANIUM STACKING TUMBLER",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 1,
       "offers": [
         {
           "offer_id": "P-JAN-4580564024088-zanearts",
           "variant_id": "V-JAN-4580564024088",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://zanearts.com/products/titanium-stacking-tumbler",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 3580,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "IN_STOCK",
@@ -49957,13 +50112,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 3580,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -49975,7 +50131,7 @@
             "P-JAN-4580564024088-zanearts"
           ],
           "barcode": "4580564024088",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -50013,21 +50169,31 @@
       ],
       "category_group": "camping",
       "product": "ZANE ARTS TOIRO TC",
-      "observations": 92,
+      "observations": 93,
       "restock_events": 0,
       "offers": [
         {
           "offer_id": "P-JAN-4580564023494-zanearts",
           "variant_id": "V-JAN-4580564023494",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://zanearts.com/products/toiro-tc",
-          "monitoring_status": "paused",
-          "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
-          "last_attempt_at": "2026-11-01T15:03:15+00:00",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 59800,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-01T15:03:15+00:00",
               "status": "OUT_OF_STOCK",
@@ -50192,13 +50358,14 @@
               "checked_at": "2026-10-06T01:46:25+00:00",
               "status": "OUT_OF_STOCK",
               "stock_reliable": true
-            },
-            {
-              "checked_at": "2026-10-06T01:20:45+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true
             }
           ],
+          "price": {
+            "amount": 59800,
+            "currency": "JPY",
+            "checked_at": "2026-11-11T12:02:46+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
           "marketplace": "official"
         }
       ],
@@ -50210,7 +50377,7 @@
             "P-JAN-4580564023494-zanearts"
           ],
           "barcode": "4580564023494",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -50251,9 +50418,9 @@
           "offer_id": "P-JAN-4580564023463-zanearts",
           "variant_id": "V-JAN-4580564023463",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "OUT_OF_STOCK",
           "url": "https://zanearts.com/products/yoma",
-          "monitoring_status": "paused",
+          "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
           "last_attempt_at": "2026-11-01T15:03:15+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
@@ -50441,7 +50608,7 @@
             "P-JAN-4580564023463-zanearts"
           ],
           "barcode": "4580564023463",
-          "status": "UNKNOWN"
+          "status": "OUT_OF_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -50482,9 +50649,9 @@
           "offer_id": "P-JAN-4580564023449-zanearts",
           "variant_id": "V-JAN-4580564023449",
           "store": "ZANE ARTS公式",
-          "status": "UNKNOWN",
+          "status": "IN_STOCK",
           "url": "https://zanearts.com/products/zeku-ru",
-          "monitoring_status": "paused",
+          "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-01T15:03:15+00:00",
           "last_attempt_at": "2026-11-01T15:03:15+00:00",
           "latest_observation_status": "IN_STOCK",
@@ -50672,7 +50839,7 @@
             "P-JAN-4580564023449-zanearts"
           ],
           "barcode": "4580564023449",
-          "status": "UNKNOWN"
+          "status": "IN_STOCK"
         }
       ],
       "brand": "ZANE ARTS",
@@ -53771,6 +53938,16 @@
             }
           ],
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-fa4ba4b95c65650039502ced",
+          "variant_id": "V-JAN-4570090248263",
+          "store": "deco-aps 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/deco-aps/382103-122-68/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -53793,7 +53970,8 @@
             "O-3c797608f2590056aa961b76",
             "O-7bc4c36e63a962e90da06c4a",
             "O-262b1157a162bf3f85f94945",
-            "O-68f50b23cc608598c39ebfb5"
+            "O-68f50b23cc608598c39ebfb5",
+            "O-fa4ba4b95c65650039502ced"
           ],
           "barcode": "4570090248263",
           "status": "UNKNOWN"
@@ -73045,12 +73223,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 4620,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -74202,12 +74374,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 2871,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -78410,12 +78576,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 3333,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -79352,12 +79512,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 3795,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -79458,12 +79612,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 3795,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -80851,12 +80999,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 3245,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -81699,12 +81841,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 3575,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -82122,6 +82258,16 @@
           "monitoring_status": "paused",
           "last_reliable_checked_at": null,
           "marketplace": "楽天市場"
+        },
+        {
+          "offer_id": "O-66aaacef14bebd101baedf3e",
+          "variant_id": "V-COLOR-091f6885b415bce85354bf5d",
+          "store": "turikichiparadaisu 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/turikichiparadaisu/gb150_49/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
         }
       ],
       "variants": [
@@ -82256,7 +82402,8 @@
             "O-87efa8a11295e7ac15e5b587",
             "O-9797978ecc0b9e6a4283dcca",
             "O-f5738751d852c3d3302e4b66",
-            "O-afe951b7d4709c7a8d674de1"
+            "O-afe951b7d4709c7a8d674de1",
+            "O-66aaacef14bebd101baedf3e"
           ],
           "barcode": "4582754516304",
           "status": "UNKNOWN"
@@ -82857,12 +83004,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 2739,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -82913,12 +83054,6 @@
               "stock_reliable": true
             }
           ],
-          "price": {
-            "amount": 2739,
-            "currency": "JPY",
-            "checked_at": "2026-11-10T12:02:43+00:00",
-            "basis": "listed_item_price_shipping_unknown"
-          },
           "marketplace": "official"
         },
         {
@@ -93615,7 +93750,7 @@
       ],
       "category_group": "other",
       "product": "DOD(ディーオーディー) マジカルテーブル ブラウン TB2-264-BR [ブラウン / 型番 TB2-264-BR / SKU 4051369]",
-      "observations": 242,
+      "observations": 243,
       "restock_events": 0,
       "offers": [
         {
@@ -93626,10 +93761,15 @@
           "url": "https://item.rakuten.co.jp/naturum/4051369/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T18:02:51+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "UNKNOWN",
@@ -93849,16 +93989,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T09:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 9546,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "marketplace": "楽天市場"
@@ -93871,10 +94001,15 @@
           "url": "https://item.rakuten.co.jp/naturum-outdoor/4051369/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T18:02:51+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "UNKNOWN",
@@ -94084,16 +94219,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T17:01:21+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 9546,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "marketplace": "楽天市場"
@@ -94170,7 +94295,7 @@
       ],
       "category_group": "other",
       "product": "マジカルテーブル ブラウン",
-      "observations": 243,
+      "observations": 244,
       "restock_events": 1,
       "offers": [
         {
@@ -94180,11 +94305,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://store.shopping.yahoo.co.jp/veryfast/bs-1579.html",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 9900,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "OUT_OF_STOCK",
@@ -94474,22 +94609,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 9900,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 9900,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "Yahoo!ショッピング"
@@ -94502,10 +94627,15 @@
           "url": "https://item.rakuten.co.jp/naturum/4051369/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-07T18:02:51+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "UNKNOWN",
@@ -94713,16 +94843,6 @@
             },
             {
               "checked_at": "2026-11-05T17:01:21+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 9546,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true,
               "price": {
@@ -95764,7 +95884,7 @@
       ],
       "category_group": "fishing",
       "product": "メガバス カゲロウ 124F GGアカキンボラCH (ソルトルアー 海釣り) ゆうパケット可",
-      "observations": 228,
+      "observations": 229,
       "restock_events": 0,
       "offers": [
         {
@@ -95774,11 +95894,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/fishing-you/4513473559839/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-11T05:01:25+00:00",
-          "last_attempt_at": "2026-11-11T05:01:25+00:00",
+          "last_reliable_checked_at": "2026-11-11T12:02:46+00:00",
+          "last_attempt_at": "2026-11-11T12:02:46+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-11T12:02:46+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-11T05:01:25+00:00",
               "status": "IN_STOCK",
@@ -96068,22 +96198,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-05T13:01:22+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-11T05:01:25+00:00",
+            "checked_at": "2026-11-11T12:02:46+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
