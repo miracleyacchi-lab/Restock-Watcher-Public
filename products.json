@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T17:08:49+00:00",
+    "generated_at": "2026-11-12T17:23:11+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -213,6 +213,7 @@
       "https://item.rakuten.co.jp/mastak-i/4513473212864/",
       "https://item.rakuten.co.jp/mastak-i/4513473488993/",
       "https://item.rakuten.co.jp/mobileshop1/4580564020318/",
+      "https://item.rakuten.co.jp/mooshop/200a-lodreel/",
       "https://item.rakuten.co.jp/morro/20240726154651_94/",
       "https://item.rakuten.co.jp/murauchi-dvd/4580510964550/",
       "https://item.rakuten.co.jp/murauchi-dvd/4589945510639/",
@@ -652,6 +653,7 @@
     "https://item.rakuten.co.jp/mastak-i/4513473212864/",
     "https://item.rakuten.co.jp/mastak-i/4513473488993/",
     "https://item.rakuten.co.jp/mobileshop1/4580564020318/",
+    "https://item.rakuten.co.jp/mooshop/200a-lodreel/",
     "https://item.rakuten.co.jp/morro/20240726154651_94/",
     "https://item.rakuten.co.jp/murauchi-dvd/4580510964550/",
     "https://item.rakuten.co.jp/murauchi-dvd/4589945510639/",
@@ -878,11 +880,11 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-12T17:08:49+00:00",
-  "product_count": 115,
+  "generated_at": "2026-11-12T17:23:11+00:00",
+  "product_count": 116,
   "category_counts": {
     "ルアー": 9,
-    "other": 56,
+    "other": 57,
     "テーブル": 6,
     "椅子": 5,
     "テント": 5,
@@ -901,7 +903,7 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 20,
+    "IN_STOCK": 21,
     "UNKNOWN": 93,
     "OUT_OF_STOCK": 2
   },
@@ -103062,6 +103064,83 @@
         {
           "variant_id": "V-YH-f5cfd94588a497406ac8e4d0",
           "last_attempt_at": "2026-11-12T02:26:17.419808+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-3cb5083ab0d0dff3b2ee954f",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "釣り竿 セット ＆ リールセット 2m 釣竿セット ロッド 200A 海釣り 川釣り 釣りセット 初心者用 釣り入門 釣り具セット 釣竿 ロッド リール 釣り初心者 入門用 投げ竿 サビキ 釣竿 子供 釣り竿セット 初心者 釣具セット 釣り [型番 200A-LODREEL / SKU 200a-lodreel]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-59b159de2717e053aef7392e",
+          "variant_id": "V-RK-3cb5083ab0d0dff3b2ee954f",
+          "store": "mooshop 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/mooshop/200a-lodreel/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-12T17:22:37+00:00",
+          "last_attempt_at": "2026-11-12T17:22:37+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-12T17:22:37+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2680,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2680,
+            "currency": "JPY",
+            "checked_at": "2026-11-12T17:22:37+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-3cb5083ab0d0dff3b2ee954f",
+          "attributes": {
+            "retailer_sku": "200a-lodreel"
+          },
+          "offer_ids": [
+            "O-59b159de2717e053aef7392e"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-3cb5083ab0d0dff3b2ee954f",
+        "attributes": {
+          "retailer_sku": "200a-lodreel"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "200a-lodreel"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-3cb5083ab0d0dff3b2ee954f",
+          "last_attempt_at": "2026-11-12T17:21:41.282970+00:00",
           "status": "attempted"
         }
       ]
