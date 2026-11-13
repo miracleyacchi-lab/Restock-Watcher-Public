@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T07:21:15+00:00",
+    "generated_at": "2026-11-13T07:28:37+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -936,11 +936,11 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-13T07:21:15+00:00",
-  "product_count": 122,
+  "generated_at": "2026-11-13T07:28:37+00:00",
+  "product_count": 124,
   "category_counts": {
     "ルアー": 9,
-    "other": 62,
+    "other": 63,
     "テーブル": 6,
     "椅子": 5,
     "テント": 6,
@@ -956,11 +956,12 @@
     "照明": 6,
     "バスルアー": 1,
     "ダイニングテーブル": 1,
+    "靴": 1,
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 27,
-    "UNKNOWN": 93,
+    "IN_STOCK": 28,
+    "UNKNOWN": 94,
     "OUT_OF_STOCK": 2
   },
   "seller_search_counts": {
@@ -104543,6 +104544,145 @@
         {
           "variant_id": "V-RK-6361be745d7c2b988825fb49",
           "last_attempt_at": "2026-11-13T07:17:02.479878+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-794319d4ce5dcaba335abf64",
+      "category": "靴",
+      "category_id": "cat-40a2391a45d943bf5046",
+      "category_path": [
+        "靴"
+      ],
+      "category_group": "other",
+      "product": "【公式】アディダス adidas 返品可 ライフスタイル カントリー II / Country II オリジナルス メンズ シューズ・靴 スニーカー 白 ホワイト IG4551 ローカット [IG4551 / 27.0cm / SKU 2749491]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-d63a709b4dcb93baea5dd960",
+          "variant_id": "V-RK-794319d4ce5dcaba335abf64",
+          "store": "adidas 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/adidas/ig4551/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-794319d4ce5dcaba335abf64",
+          "attributes": {
+            "retailer_sku": "2749491"
+          },
+          "offer_ids": [
+            "O-d63a709b4dcb93baea5dd960"
+          ],
+          "status": "UNKNOWN"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-794319d4ce5dcaba335abf64",
+        "attributes": {
+          "retailer_sku": "2749491"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "靴",
+        "その他",
+        "2749491"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-794319d4ce5dcaba335abf64",
+          "last_attempt_at": "2026-11-13T07:27:00.388805+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RKL-F-9e0f706c065dc14b01c7326c",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "【タイガー魔法瓶 楽天市場店】水筒 食洗機対応 パッキン一体 らくらくキャップ 真空断熱 ボトル 350ml 500ml 600ml MMZ-W035 MMZ-W050 MMZ-W060 コンパクト 軽量 保温 保冷 直飲み おしゃれ ステンレスボトル サハラ 食洗機 ブラック ホワイト タイガー",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-60120ce6f9e67a7047ff7fa2",
+          "variant_id": "V-RK-df5274a4e22570c59bacc8af",
+          "store": "tiger-online 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/tiger-online/mmz-w050/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-13T07:28:04+00:00",
+          "last_attempt_at": "2026-11-13T07:28:04+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-13T07:28:04+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2981,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 2981,
+            "currency": "JPY",
+            "checked_at": "2026-11-13T07:28:04+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-df5274a4e22570c59bacc8af",
+          "attributes": {
+            "capacity": "500mL",
+            "color": "ストーンブラック",
+            "retailer_sku": "mmz-w050kk-1"
+          },
+          "offer_ids": [
+            "O-60120ce6f9e67a7047ff7fa2"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-df5274a4e22570c59bacc8af",
+        "attributes": {
+          "capacity": "500mL",
+          "color": "ストーンブラック",
+          "retailer_sku": "mmz-w050kk-1"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "ストーンブラック",
+        "mmz-w050kk-1"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-df5274a4e22570c59bacc8af",
+          "last_attempt_at": "2026-11-13T07:27:00.388805+00:00",
           "status": "attempted"
         }
       ]
