@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T06:38:07+00:00",
+    "generated_at": "2026-11-13T06:43:10+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -204,6 +204,7 @@
       "https://item.rakuten.co.jp/lapert/4580702321819/",
       "https://item.rakuten.co.jp/lb77/20260120104247_33/",
       "https://item.rakuten.co.jp/lb77/20260808213720_33/",
+      "https://item.rakuten.co.jp/le-noble/wwws00000048/",
       "https://item.rakuten.co.jp/m-outdoor/as392101camo-98/",
       "https://item.rakuten.co.jp/m-outdoor/as392302-23/",
       "https://item.rakuten.co.jp/m-outdoor/as492500-10/",
@@ -651,6 +652,7 @@
     "https://item.rakuten.co.jp/lapert/4580702321819/",
     "https://item.rakuten.co.jp/lb77/20260120104247_33/",
     "https://item.rakuten.co.jp/lb77/20260808213720_33/",
+    "https://item.rakuten.co.jp/le-noble/wwws00000048/",
     "https://item.rakuten.co.jp/m-outdoor/as392101camo-98/",
     "https://item.rakuten.co.jp/m-outdoor/as392302-23/",
     "https://item.rakuten.co.jp/m-outdoor/as492500-10/",
@@ -894,11 +896,11 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-13T06:38:07+00:00",
-  "product_count": 118,
+  "generated_at": "2026-11-13T06:43:10+00:00",
+  "product_count": 119,
   "category_counts": {
     "ルアー": 9,
-    "other": 58,
+    "other": 59,
     "テーブル": 6,
     "椅子": 5,
     "テント": 6,
@@ -917,7 +919,7 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 23,
+    "IN_STOCK": 24,
     "UNKNOWN": 93,
     "OUT_OF_STOCK": 2
   },
@@ -103504,6 +103506,83 @@
         {
           "variant_id": "V-RK-7fbf8302dc290b41f6ba51dd",
           "last_attempt_at": "2026-11-13T06:36:41.479998+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-ea60d3b0fc0bf6609b007c73",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "ウェッジウッド (Wedgwood) ワイルドストロベリー カジュアル マグ 300ml グリーン ペア /// マグカップ 2個セット WEDGWOOD 来客用 いちご柄 花柄 電子レンジ対応 食洗機対応 大人可愛い おしゃれ ブランド 高級 // ギフト プレゼント 贈り物 結婚祝い [グリーン / SKU wwws00000048]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-82becfc6e71cc0182d589ae0",
+          "variant_id": "V-RK-ea60d3b0fc0bf6609b007c73",
+          "store": "le-noble 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/le-noble/wwws00000048/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-13T06:42:37+00:00",
+          "last_attempt_at": "2026-11-13T06:42:37+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-13T06:42:37+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 9520,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 9520,
+            "currency": "JPY",
+            "checked_at": "2026-11-13T06:42:37+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-ea60d3b0fc0bf6609b007c73",
+          "attributes": {
+            "retailer_sku": "wwws00000048"
+          },
+          "offer_ids": [
+            "O-82becfc6e71cc0182d589ae0"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-ea60d3b0fc0bf6609b007c73",
+        "attributes": {
+          "retailer_sku": "wwws00000048"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "wwws00000048"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-ea60d3b0fc0bf6609b007c73",
+          "last_attempt_at": "2026-11-13T06:41:38.878950+00:00",
           "status": "attempted"
         }
       ]
