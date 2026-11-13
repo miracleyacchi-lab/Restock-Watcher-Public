@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T07:29:37+00:00",
+    "generated_at": "2026-11-13T07:34:01+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -292,6 +292,7 @@
       "https://item.rakuten.co.jp/r-bunbun/4589945511407/",
       "https://item.rakuten.co.jp/r-bunbun/4589945512183/",
       "https://item.rakuten.co.jp/r-bunbun/4589945512251/",
+      "https://item.rakuten.co.jp/r-kojima/4549980708002/",
       "https://item.rakuten.co.jp/rodcontrol/8-1146/",
       "https://item.rakuten.co.jp/rodcontrol/8-1147/",
       "https://item.rakuten.co.jp/rodcontrol/8-1185/",
@@ -760,6 +761,7 @@
     "https://item.rakuten.co.jp/r-bunbun/4589945511407/",
     "https://item.rakuten.co.jp/r-bunbun/4589945512183/",
     "https://item.rakuten.co.jp/r-bunbun/4589945512251/",
+    "https://item.rakuten.co.jp/r-kojima/4549980708002/",
     "https://item.rakuten.co.jp/rodcontrol/8-1146/",
     "https://item.rakuten.co.jp/rodcontrol/8-1147/",
     "https://item.rakuten.co.jp/rodcontrol/8-1185/",
@@ -936,8 +938,8 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-13T07:29:37+00:00",
-  "product_count": 124,
+  "generated_at": "2026-11-13T07:34:01+00:00",
+  "product_count": 125,
   "category_counts": {
     "ルアー": 9,
     "other": 63,
@@ -953,14 +955,14 @@
     "ファニチャー": 1,
     "TENT": 8,
     "GEAR": 1,
-    "照明": 6,
+    "照明": 7,
     "バスルアー": 1,
     "ダイニングテーブル": 1,
     "靴": 1,
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 29,
+    "IN_STOCK": 30,
     "UNKNOWN": 93,
     "OUT_OF_STOCK": 2
   },
@@ -104704,6 +104706,89 @@
         {
           "variant_id": "V-RK-df5274a4e22570c59bacc8af",
           "last_attempt_at": "2026-11-13T07:27:00.388805+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-58e2d62aafab723896554f16",
+      "category": "照明",
+      "category_id": "cat-098294eeccc238f7cd88",
+      "category_path": [
+        "照明"
+      ],
+      "category_group": "camping",
+      "product": "パナソニック Panasonic 多機能でかランタン ［LED /単1乾電池×3］ BF-BL45M-W [型番 BFBL45MW / SKU 4549980708002]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-3e4e01883b96f5d162ed903d",
+          "variant_id": "V-RK-58e2d62aafab723896554f16",
+          "store": "r-kojima 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/r-kojima/4549980708002/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-13T07:33:29+00:00",
+          "last_attempt_at": "2026-11-13T07:33:29+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-13T07:33:29+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 5000,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 5000,
+            "currency": "JPY",
+            "checked_at": "2026-11-13T07:33:29+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-58e2d62aafab723896554f16",
+          "attributes": {
+            "retailer_sku": "4549980708002"
+          },
+          "offer_ids": [
+            "O-3e4e01883b96f5d162ed903d"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-58e2d62aafab723896554f16",
+        "attributes": {
+          "retailer_sku": "4549980708002"
+        }
+      },
+      "subcategory": "lights",
+      "search_keywords": [
+        "照明",
+        "ライト",
+        "ランタン",
+        "light",
+        "lantern",
+        "しょうめい",
+        "アウトドア",
+        "キャンプ",
+        "キャンプ用品",
+        "4549980708002"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-58e2d62aafab723896554f16",
+          "last_attempt_at": "2026-11-13T07:32:47.065215+00:00",
           "status": "attempted"
         }
       ]
