@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T06:08:58+00:00",
+    "generated_at": "2026-11-13T06:38:07+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -894,14 +894,14 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-13T06:08:58+00:00",
-  "product_count": 117,
+  "generated_at": "2026-11-13T06:38:07+00:00",
+  "product_count": 118,
   "category_counts": {
     "ルアー": 9,
     "other": 58,
     "テーブル": 6,
     "椅子": 5,
-    "テント": 5,
+    "テント": 6,
     "焚火台": 1,
     "焚き火台": 3,
     "調理器具": 3,
@@ -917,7 +917,7 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 22,
+    "IN_STOCK": 23,
     "UNKNOWN": 93,
     "OUT_OF_STOCK": 2
   },
@@ -103423,6 +103423,87 @@
         {
           "variant_id": "V-RK-d2cd5112afe12b82d8d2b537",
           "last_attempt_at": "2026-11-13T04:51:37.777794+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-7fbf8302dc290b41f6ba51dd",
+      "category": "テント",
+      "category_id": "cat-6fc40dbfdb3b27b55807",
+      "category_path": [
+        "テント"
+      ],
+      "category_group": "camping",
+      "product": "楽天1位 大人数で使える 特大 3×6m ワンタッチ タープテント サイドシート 1枚 2枚 大型 6m 収納ケース 特大 ワンタッチタープテント タープ アウトドア イベントテント 運動会 日よけ 日除け 特大 イベント 業務用 [オリーブ / サイドシート2枚付 / 無し / SKU 4440005404]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-d9d3602ba721d0186425a290",
+          "variant_id": "V-RK-7fbf8302dc290b41f6ba51dd",
+          "store": "tansu 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/tansu/1900002000/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-13T06:37:34+00:00",
+          "last_attempt_at": "2026-11-13T06:37:34+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-13T06:37:34+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 28999,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 28999,
+            "currency": "JPY",
+            "checked_at": "2026-11-13T06:37:34+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-7fbf8302dc290b41f6ba51dd",
+          "attributes": {
+            "retailer_sku": "4440005404"
+          },
+          "offer_ids": [
+            "O-d9d3602ba721d0186425a290"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-7fbf8302dc290b41f6ba51dd",
+        "attributes": {
+          "retailer_sku": "4440005404"
+        }
+      },
+      "subcategory": "shelters",
+      "search_keywords": [
+        "テント",
+        "シェルター",
+        "tent",
+        "shelter",
+        "アウトドア",
+        "キャンプ",
+        "キャンプ用品",
+        "4440005404"
+      ],
+      "discovery": [
+        {
+          "variant_id": "V-RK-7fbf8302dc290b41f6ba51dd",
+          "last_attempt_at": "2026-11-13T06:36:41.479998+00:00",
           "status": "attempted"
         }
       ]
