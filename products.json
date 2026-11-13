@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T07:11:00+00:00",
+    "generated_at": "2026-11-13T07:19:20+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -936,11 +936,11 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-13T07:11:00+00:00",
-  "product_count": 120,
+  "generated_at": "2026-11-13T07:19:20+00:00",
+  "product_count": 122,
   "category_counts": {
     "ルアー": 9,
-    "other": 60,
+    "other": 62,
     "テーブル": 6,
     "椅子": 5,
     "テント": 6,
@@ -959,8 +959,8 @@
     "ライフスタイル": 1
   },
   "status_counts": {
-    "IN_STOCK": 25,
-    "UNKNOWN": 93,
+    "IN_STOCK": 26,
+    "UNKNOWN": 94,
     "OUT_OF_STOCK": 2
   },
   "seller_search_counts": {
@@ -104385,8 +104385,144 @@
       "discovery": [
         {
           "variant_id": "V-JAN-4988617361683",
-          "last_attempt_at": "2026-11-13T07:02:28.977590+00:00",
+          "last_attempt_at": "2026-11-13T07:17:20.680647+00:00",
           "status": "partial"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RKL-F-ae07a29c71fc1cc42bea7bfd",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "【激アツ価格＆クーポンで3,780円】 ★2個入★ LEDランタン usb充電式 充電式 LED ランタン 電池式 高輝度 キャンプランタン フラッシュライト led ランタン 折り畳み式 携帯型 テントライ 防災対策 災害グッズ 停電/台風/地震 対策 防災グッズ ギフト",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-5b6a3117bdd0d7dfbd2b162a",
+          "variant_id": "V-RK-b19d30b9a3748106a682ad3d",
+          "store": "artpiece 楽天市場店",
+          "status": "IN_STOCK",
+          "url": "https://item.rakuten.co.jp/artpiece/lantan2set/",
+          "monitoring_status": "active",
+          "last_reliable_checked_at": "2026-11-13T07:18:47+00:00",
+          "last_attempt_at": "2026-11-13T07:18:47+00:00",
+          "latest_observation_status": "IN_STOCK",
+          "last_reliable_status": "IN_STOCK",
+          "history": [
+            {
+              "checked_at": "2026-11-13T07:18:47+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 4380,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            }
+          ],
+          "price": {
+            "amount": 4380,
+            "currency": "JPY",
+            "checked_at": "2026-11-13T07:18:47+00:00",
+            "basis": "listed_item_price_shipping_unknown"
+          },
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-b19d30b9a3748106a682ad3d",
+          "attributes": {
+            "color": "ブラック+グレー",
+            "retailer_sku": "1130"
+          },
+          "offer_ids": [
+            "O-5b6a3117bdd0d7dfbd2b162a"
+          ],
+          "status": "IN_STOCK"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-b19d30b9a3748106a682ad3d",
+        "attributes": {
+          "color": "ブラック+グレー",
+          "retailer_sku": "1130"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "ブラック+グレー",
+        "1130"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-b19d30b9a3748106a682ad3d",
+          "last_attempt_at": "2026-11-13T07:17:02.479878+00:00",
+          "status": "attempted"
+        }
+      ]
+    },
+    {
+      "product_id": "P-RK-6361be745d7c2b988825fb49",
+      "category": "other",
+      "category_id": "other",
+      "category_path": [
+        "その他"
+      ],
+      "category_group": "other",
+      "product": "ベーシックな抗菌防臭 バスタオル(WS001) ニトリ [ネイビー / 単品 / バスタオル / SKU 7771633]",
+      "observations": 0,
+      "restock_events": 0,
+      "offers": [
+        {
+          "offer_id": "O-c11336157bcfc9a326159129",
+          "variant_id": "V-RK-6361be745d7c2b988825fb49",
+          "store": "nitori 楽天市場店",
+          "status": "UNKNOWN",
+          "url": "https://item.rakuten.co.jp/nitori/7771622s/",
+          "monitoring_status": "paused",
+          "last_reliable_checked_at": null,
+          "marketplace": "楽天市場"
+        }
+      ],
+      "variants": [
+        {
+          "variant_id": "V-RK-6361be745d7c2b988825fb49",
+          "attributes": {
+            "retailer_sku": "7771633"
+          },
+          "offer_ids": [
+            "O-c11336157bcfc9a326159129"
+          ],
+          "status": "UNKNOWN"
+        }
+      ],
+      "variant": {
+        "variant_id": "V-RK-6361be745d7c2b988825fb49",
+        "attributes": {
+          "retailer_sku": "7771633"
+        }
+      },
+      "subcategory": "other",
+      "search_keywords": [
+        "その他・未分類",
+        "その他",
+        "7771633"
+      ],
+      "catalog_visibility": "search_only",
+      "discovery": [
+        {
+          "variant_id": "V-RK-6361be745d7c2b988825fb49",
+          "last_attempt_at": "2026-11-13T07:17:02.479878+00:00",
+          "status": "attempted"
         }
       ]
     },
