@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-14T10:07:24+00:00",
+    "generated_at": "2026-11-14T11:08:58+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -944,7 +944,7 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-14T10:07:24+00:00",
+  "generated_at": "2026-11-14T11:08:58+00:00",
   "product_count": 125,
   "category_counts": {
     "ルアー": 9,
@@ -988,7 +988,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GP レッドヘッド",
-      "observations": 1100,
+      "observations": 1101,
       "restock_events": 9,
       "offers": [
         {
@@ -1640,11 +1640,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/fto-r/4513473448416/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2277,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -1934,22 +1944,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T04:02:43+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2277,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -1961,11 +1961,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/turikichiparadaisu/kage124_10/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2400,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -2250,22 +2260,12 @@
               "checked_at": "2026-11-08T11:01:28+00:00",
               "status": "ERROR",
               "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2400,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2400,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -3312,7 +3312,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 124F GG イワシ",
-      "observations": 1131,
+      "observations": 1132,
       "restock_events": 59,
       "offers": [
         {
@@ -4280,11 +4280,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/hikoboshi-fishing/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "OUT_OF_STOCK",
@@ -4574,22 +4584,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -4601,11 +4601,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/fto-r/4513473448324/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2530,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "OUT_OF_STOCK",
@@ -4895,22 +4905,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T05:01:23+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2530,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2530,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -5958,7 +5958,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F HT ブラックピンクバック",
-      "observations": 1067,
+      "observations": 1068,
       "restock_events": 20,
       "offers": [
         {
@@ -7894,11 +7894,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/r-bunbun/4513473560170/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -8188,22 +8198,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T05:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -8292,7 +8292,7 @@
       ],
       "category_group": "fishing",
       "product": "KAGELOU 100F GG アカキンボラCH",
-      "observations": 1136,
+      "observations": 1137,
       "restock_events": 29,
       "offers": [
         {
@@ -9265,11 +9265,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/hanamaruhonp01/20261021042716_244/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2991,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "OUT_OF_STOCK",
@@ -9559,22 +9569,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2953,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2991,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -9586,11 +9586,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/articlestore/8260920184/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2004,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -9880,22 +9890,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2004,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2004,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -9907,11 +9907,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/tsurigu-tobinuke/090224603/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2398,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -10201,22 +10211,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T05:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2398,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2398,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11269,7 +11269,7 @@
       ],
       "category_group": "fishing",
       "product": "BlueBlue ブローウィン125F-Slim",
-      "observations": 1111,
+      "observations": 1112,
       "restock_events": 21,
       "offers": [
         {
@@ -11609,11 +11609,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -11903,22 +11913,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -11930,11 +11930,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -12219,22 +12229,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12246,11 +12246,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -12540,22 +12550,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12567,11 +12567,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "OUT_OF_STOCK",
@@ -12856,22 +12866,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T11:01:28+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -12883,11 +12883,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "OUT_OF_STOCK",
@@ -13177,22 +13187,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13201,14 +13201,19 @@
           "offer_id": "O-9dc4a642589603004dc0fe3e",
           "variant_id": "V-RKF-e35f69cde2d89b0d1d02b8c6",
           "store": "inomata-fishing 楽天市場店",
-          "status": "IN_STOCK",
+          "status": "UNKNOWN",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
-          "latest_observation_status": "IN_STOCK",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
+          "latest_observation_status": "ERROR",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "ERROR",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -13498,16 +13503,6 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
@@ -13525,11 +13520,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -13814,22 +13819,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T11:01:28+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -13841,11 +13836,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -14135,22 +14140,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T07:01:23+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -14162,11 +14157,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -14451,22 +14456,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T11:01:28+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -14478,11 +14473,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -14772,22 +14777,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -14799,11 +14794,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -15093,22 +15098,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -15120,11 +15115,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "OUT_OF_STOCK",
@@ -15414,22 +15419,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -15441,11 +15436,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -15735,22 +15740,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -15762,11 +15757,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -16056,22 +16061,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -16083,11 +16078,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -16377,22 +16382,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -16404,11 +16399,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -16698,22 +16703,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -16725,11 +16720,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T06:02:49+00:00",
-          "last_attempt_at": "2026-11-14T06:02:49+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T06:02:49+00:00",
               "status": "IN_STOCK",
@@ -17019,22 +17024,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T06:02:49+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -17046,11 +17041,21 @@
           "status": "IN_STOCK",
           "url": "https://item.rakuten.co.jp/inomata-fishing/4589945518208/",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-14T07:01:24+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_reliable_checked_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "IN_STOCK",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "IN_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 2656,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "IN_STOCK",
@@ -17340,22 +17345,12 @@
                 "currency": "JPY",
                 "basis": "listed_item_price_shipping_unknown"
               }
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 2656,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 2656,
             "currency": "JPY",
-            "checked_at": "2026-11-14T07:01:24+00:00",
+            "checked_at": "2026-11-14T11:01:24+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "楽天市場"
@@ -17368,10 +17363,15 @@
           "url": "https://item.rakuten.co.jp/kurodaitsurigu/4589945518208/",
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-10-25T22:07:23+00:00",
-          "last_attempt_at": "2026-11-14T07:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "UNKNOWN",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "UNKNOWN",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-14T07:01:24+00:00",
               "status": "UNKNOWN",
@@ -17514,11 +17514,6 @@
             },
             {
               "checked_at": "2026-11-08T11:01:28+00:00",
-              "status": "UNKNOWN",
-              "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-08T08:01:48+00:00",
               "status": "UNKNOWN",
               "stock_reliable": false
             }
@@ -19271,7 +19266,7 @@
             "O-9dc4a642589603004dc0fe3e"
           ],
           "barcode": "4589945518222",
-          "status": "IN_STOCK"
+          "status": "UNKNOWN"
         },
         {
           "variant_id": "V-RKF-abd8b1a41f3f8583fc4840b9",
@@ -61696,7 +61691,7 @@
       ],
       "category_group": "fishing",
       "product": "GENMA 85S",
-      "observations": 53,
+      "observations": 54,
       "restock_events": 0,
       "offers": [
         {
@@ -63095,10 +63090,15 @@
           "monitoring_status": "paused",
           "last_reliable_checked_at": null,
           "url_status": "unavailable",
-          "url_last_missing_at": "2026-11-11T10:02:48+00:00",
-          "last_attempt_at": "2026-11-11T10:02:48+00:00",
+          "url_last_missing_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "ERROR",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "ERROR",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T10:02:48+00:00",
               "status": "ERROR",
@@ -92460,7 +92460,7 @@
       ],
       "category_group": "camping",
       "product": "ディーオーディー fave kinoko lamp DH2-009-RD キャンプ LEDランタン DOD",
-      "observations": 249,
+      "observations": 250,
       "restock_events": 0,
       "offers": [
         {
@@ -92472,11 +92472,16 @@
           "monitoring_status": "active",
           "last_reliable_checked_at": "2026-11-05T05:01:23+00:00",
           "url_status": "unavailable",
-          "url_last_missing_at": "2026-11-11T10:02:48+00:00",
-          "last_attempt_at": "2026-11-11T10:02:48+00:00",
+          "url_last_missing_at": "2026-11-14T11:01:24+00:00",
+          "last_attempt_at": "2026-11-14T11:01:24+00:00",
           "latest_observation_status": "ERROR",
           "last_reliable_status": "IN_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-14T11:01:24+00:00",
+              "status": "ERROR",
+              "stock_reliable": false
+            },
             {
               "checked_at": "2026-11-11T10:02:48+00:00",
               "status": "ERROR",
@@ -92744,16 +92749,6 @@
             },
             {
               "checked_at": "2026-11-02T05:02:57+00:00",
-              "status": "IN_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 4180,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
-            },
-            {
-              "checked_at": "2026-11-02T04:02:28+00:00",
               "status": "IN_STOCK",
               "stock_reliable": true,
               "price": {
