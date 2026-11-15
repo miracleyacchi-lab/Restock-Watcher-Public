@@ -1,7 +1,7 @@
 {
   "search_index": {
     "schema_version": 1,
-    "generated_at": "2026-11-15T03:08:52+00:00",
+    "generated_at": "2026-11-15T03:32:05+00:00",
     "search_exclusions": [
       "https://item.rakuten.co.jp/almeria/39075093298/",
       "https://item.rakuten.co.jp/almeria/39081551465/",
@@ -964,7 +964,7 @@
     "https://store.shopping.yahoo.co.jp/yfto2/4589945510639.html",
     "https://store.shopping.yahoo.co.jp/yolo-goods-company/x6-0gj2-kwb5.html"
   ],
-  "generated_at": "2026-11-15T03:08:52+00:00",
+  "generated_at": "2026-11-15T03:32:05+00:00",
   "product_count": 125,
   "category_counts": {
     "ルアー": 9,
@@ -102694,11 +102694,21 @@
           "status": "OUT_OF_STOCK",
           "url": "https://ec.snowpeak.co.jp/item/SNP0121A0128?clr_id=101",
           "monitoring_status": "active",
-          "last_reliable_checked_at": "2026-11-15T03:02:53+00:00",
-          "last_attempt_at": "2026-11-15T03:02:53+00:00",
+          "last_reliable_checked_at": "2026-11-15T03:31:52+00:00",
+          "last_attempt_at": "2026-11-15T03:31:52+00:00",
           "latest_observation_status": "OUT_OF_STOCK",
           "last_reliable_status": "OUT_OF_STOCK",
           "history": [
+            {
+              "checked_at": "2026-11-15T03:31:52+00:00",
+              "status": "OUT_OF_STOCK",
+              "stock_reliable": true,
+              "price": {
+                "amount": 4290,
+                "currency": "JPY",
+                "basis": "listed_item_price_shipping_unknown"
+              }
+            },
             {
               "checked_at": "2026-11-15T03:02:53+00:00",
               "status": "OUT_OF_STOCK",
@@ -102903,22 +102913,12 @@
               "checked_at": "2026-11-10T11:01:25+00:00",
               "status": "ERROR",
               "stock_reliable": false
-            },
-            {
-              "checked_at": "2026-11-10T07:01:22+00:00",
-              "status": "OUT_OF_STOCK",
-              "stock_reliable": true,
-              "price": {
-                "amount": 4290,
-                "currency": "JPY",
-                "basis": "listed_item_price_shipping_unknown"
-              }
             }
           ],
           "price": {
             "amount": 4290,
             "currency": "JPY",
-            "checked_at": "2026-11-15T03:02:53+00:00",
+            "checked_at": "2026-11-15T03:31:52+00:00",
             "basis": "listed_item_price_shipping_unknown"
           },
           "marketplace": "official"
